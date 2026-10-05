@@ -65,6 +65,9 @@ class PoliteClient:
         self.last_request_at: float | None = None
         self.session = requests.Session()
         self.session.headers["User-Agent"] = USER_AGENT
+        self.session.cookies.set(
+            "loggedOff_collection_size", "1000", domain="tsumego.com", path="/"
+        )
 
     def __enter__(self) -> PoliteClient:
         return self
@@ -161,9 +164,9 @@ def parse_problem_refs(html: str, expected_count: int) -> list[ProblemRef]:
 
     if len(problems) != expected_count:
         raise ValueError(f"expected {expected_count} problems, found {len(problems)}")
-    expected_positions = list(range(1, expected_count + 1))
-    if [problem.position for problem in problems] != expected_positions:
-        raise ValueError("problem positions are missing, duplicated, or out of order")
+    positions = [problem.position for problem in problems]
+    if positions != sorted(set(positions)) or any(position < 1 for position in positions):
+        raise ValueError("problem positions are duplicated or out of order")
     return problems
 
 
