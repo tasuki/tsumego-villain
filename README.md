@@ -22,6 +22,7 @@ mise exec -- python scripts/scrape_sets.py
 The script writes `data/sets.tsv` with one collection per row and these columns:
 
 - `id`
+- `slug`
 - `name`
 - `problem_count`
 - `average_difficulty`

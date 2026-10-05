@@ -7,7 +7,8 @@ import argparse
 import csv
 import re
 import sys
-from dataclasses import dataclass, fields
+import unicodedata
+from dataclasses import asdict, dataclass, fields
 from pathlib import Path
 from urllib.parse import urljoin
 
@@ -27,9 +28,20 @@ PROBLEM_COUNT_RE = re.compile(r"^(?P<count>[\d,]+)\s+problems?$")
 @dataclass(frozen=True)
 class Collection:
     id: int
+    slug: str
     name: str
     problem_count: int
     average_difficulty: str
+
+
+def slugify(name: str) -> str:
+    ascii_name = (
+        unicodedata.normalize("NFKD", name).encode("ascii", "ignore").decode("ascii")
+    )
+    slug = re.sub(r"[^a-z0-9]+", "-", ascii_name.lower()).strip("-")
+    if not slug:
+        raise ValueError(f"cannot make a slug from collection name {name!r}")
+    return slug
 
 
 def element_text(card: Tag, selector: str) -> str:
@@ -53,10 +65,12 @@ def parse_collections(html: str) -> list[Collection]:
         if count_match is None:
             raise ValueError(f"unexpected problem count: {count_text!r}")
 
+        name = element_text(card, ".set-card__top")
         collections.append(
             Collection(
                 id=int(match.group("id")),
-                name=element_text(card, ".set-card__top"),
+                slug=slugify(name),
+                name=name,
                 problem_count=int(count_match.group("count").replace(",", "")),
                 average_difficulty=element_text(card, ".set-card__middle-right"),
             )
@@ -117,14 +131,7 @@ def write_tsv(collections: list[Collection], output: Path) -> None:
         )
         writer.writeheader()
         for collection in collections:
-            writer.writerow(
-                {
-                    "id": collection.id,
-                    "name": collection.name,
-                    "problem_count": collection.problem_count,
-                    "average_difficulty": collection.average_difficulty,
-                }
-            )
+            writer.writerow(asdict(collection))
 
     temporary_output.replace(output)
 
