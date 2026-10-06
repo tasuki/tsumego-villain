@@ -1,0 +1,11 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+AW[ob][qc][dd][rd][pf][qf][ng][pg][ph][qi][oj][qj][dn][dp]AB[kc][nd][pd][qe][re][rf][qg][qh][oi][pi][ql][fp][pp][mq]TR[pf][qf][ng][pg][ph][qi][oj][qj]
+(;B[nj]TE[2]
+;W[pj]
+;B[mi]C[+Black creates a miai for attacking one of the groups.])
+(;B[ni]
+;W[pj]LB[li:A][ol:B]
+;B[ol]C[+])
+(;B[mi]
+;W[pl]))

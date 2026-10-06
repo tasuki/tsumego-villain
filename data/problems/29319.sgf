@@ -1,0 +1,23 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[13]KM[0.00]
+GN[ ]PW[ ]PB[ ]AW[dc][ck]AB[jd][dj][jj]TR[dj]FG[259:]PM[1]
+(;W[dk]C[+])
+(;W[cj]C[+])
+(;W[ci]
+;B[cj]
+;W[bj]LB[bi:A][bk:B]C[Many weaknesses])
+(;W[ek]
+;B[dk]
+;W[dl]LB[cl:A][el:B]C[Many weaknesses])
+(;W[el]
+;B[cj]
+(;W[dk]
+;B[ej]TR[el]C[Too tight])
+(;W[bk]
+;B[fk]TR[bk][ck][el]C[Too small]))
+(;W[bi]
+;B[dk]
+(;W[cj]
+;B[di]TR[bi]C[Too tight])
+(;W[cl]
+;B[ch]TR[bi][ck][cl]C[Too small])))

@@ -1,0 +1,26 @@
+(;FF[4]GM[1]CA[UTF-8]AP[besogo:0.0.2-alpha]SZ[19]ST[2]
+RU[Japanese]KM[0.00]PW[White]PB[Black]
+AB[ai][bd][bi][cb][cc][cd][ch][ci][df][dg][dh][ef][fa][fc][fd][fe][fh][fi][ga][gb][gc][gg][gh][he][hg][ig][je][jg][kg][kh][lh][li]AW[af][ah][be][bf][bg][bh][ce][cg][db][dc][dd][de][ea][eb][ed][fb]
+G[KILL]
+;W[ba]
+(;B[ca]
+(;W[bb]
+;B[ad]
+(;W[bc]
+S[DEAD])
+(;W[da]
+S[DEAD])
+(;W[ae]
+S[DEAD]))
+(;W[ac]
+;B[ad]
+S[KO+]))
+(;B[bb]
+(;W[ac]
+;B[ca]
+;W[ad]LB[aa:X][ab:Y]
+C[Your opponent cannot do anything with the ko at X or by making an eye with Y.]
+S[DEAD])
+(;W[ca]
+;B[ac]
+S[KO+])))

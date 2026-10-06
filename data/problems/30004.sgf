@@ -1,0 +1,12 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[13]KM[0.00]
+PW[Белые1]PB[Черные]AW[dd][ed][ce][ee][fe][ge][cf][cg][gg][dh][fh][di][ei]AB[eb][cc][fc][cd][hd][de][ie][df][ef][if][dg][fg][hg][eh][gh][ih]
+(;B[fi]
+;W[ff]LB[eg:A][fh:B]TR[de][df][ef][dg]C[Stones are captured by oiotoshi])
+(;B[gf]
+;W[ff]C[Stones are captured by oiotoshi])
+(;B[ff]
+(;W[gf]
+;B[fi]C[+])
+(;W[fi]
+;B[gf]C[+])))

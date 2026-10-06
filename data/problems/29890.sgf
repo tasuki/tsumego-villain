@@ -1,0 +1,20 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[13]KM[0.00]
+PW[Белые]PB[Черные]AW[ca][da][fa][ga][db][fb][cc][dc][gc][cd][gd][hd][ld][md][de][ge][ke][me][df][ef][ff][kf][lf][cg][eg][ig][jg][ah][bh][ch][fh][ih][kh][di][fi][ji][ej][kj][lj][mj][ck][dk][mk][cl][cm][dm]AB[ba][ha][bb][cb][gb][hb][ib][bc][hc][ic][kc][lc][mc][bd][id][kd][ce][fe][he][je][bf][cf][gf][if][jf][ag][bg][fg][gg][hg][gh][gi][hi][fj][gj][ij][jj][ek][hk][kk][lk][dl][el][ml][em]
+(;W[fc]
+;B[ll]C[+])
+(;W[ll]
+;B[kl]
+;W[mm]
+;B[fc]TR[jl][kl][ll][jm][km][lm][mm]SQ[ec][fc][gc][ed][fd][gd][hd][ee][fe][ge]C[Of course you found a weakness in the opponent's territory, but your damage is more serious
+])
+(;W[ii]
+;B[fc]TR[gc][gd][hd][ge])
+(;W[hh]
+;B[fc]TR[gc][gd][hd][ge])
+(;W[fd]
+;B[ll]C[+])
+(;W[ed]
+;B[ll]C[+])
+(;W[ee]
+;B[ll]C[+]))

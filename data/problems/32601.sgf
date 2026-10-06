@@ -1,0 +1,18 @@
+(;FF[4]GM[1]CA[UTF-8]AP[besogo:0.0.2-alpha]SZ[19]ST[2]
+RU[Japanese]KM[0.00]GC[117 ��� �����.]
+AB[ac][bb][bd][bn][bo][cb][cd][ce][ck][cl][cm][co][cp][db][dc][io][ip][iq][mq][nr][od][oq][or][pq][qd][qp][qr][ro][rp][rs][sr]AW[be][bm][cf][cn][dd][de][dg][dk][dl][dm][dn][do][ec][eq][fd][jp][lq][mr][np][nq][op][pn][pp][qo][qq][rn][rq][rr]LB[cj:C][im:A][mc:D][mp:E][ph:B]
+(;W[im]LB[cj:C][im:A][mc:D][mp:E][ph:B]
+C[White misses a chance to play sente move C first,])
+(;W[ph]LB[cj:C][im:A][mc:D][mp:E][ph:B]
+;B[cj]
+C[Big point, but Black will play C10 in sente.])
+(;W[cj]LB[cj:C][im:A][mc:D][mp:E][ph:B]
+;B[bl]LB[bk:A]
+;W[bk]
+;B[am]LB[im:A]
+C[+White should play sente moves first, and only then attack J5 group.])
+(;W[mc]LB[cj:C][im:A][mc:D][mp:E][ph:B]
+;B[cj]
+C[Very big point, but Black will play C10 in sente.])
+(;W[mp]LB[cj:C][im:A][mc:D][mp:E][ph:B]
+C[Not needed, N3 stone cannot escape.]))

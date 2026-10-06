@@ -1,0 +1,10 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+AW[dd][fi][dj][fj][ek][dl][fl][em][en][ho][kp][pp][eq]AB[oc][qd][eh][ei][ej][ck][dk][cl][cm][dm][in][io][cp][ip]TR[in][io][ip]
+;W[kn]TE[2]
+;B[jm]LB[jk:A][ll:B]
+;W[ll]
+;B[jk]LB[ji:A][lj:B]
+;W[ji]
+;B[kj]LB[lh:A][mj:B]
+;W[mj]C[+White can build a moyo while attacking.])

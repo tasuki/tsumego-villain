@@ -1,0 +1,8 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+GN[��������� �����]SO[����������.ru]AW[ec][oc][ld][md][ke][le][jf]AB[kc][lc][kd][qd][je][kf][pq]LB[gc:E][ie:C][pf:B][kg:A][dp:D]G[tt]
+(;B[kg]LB[gc:E][ie:C][pf:B][dp:D]SQ[kc][kd][qd][je][kf][kg]C[Bad choice, Black has too many weaknesses to play actively.])
+(;B[pf]LB[gc:E][ie:C][pf:B][kg:A][dp:D]C[One purpose move - gaining points. The fight on the top side is more important.])
+(;B[ie]LB[gc:E][ie:C][pf:B][kg:A][dp:D]C[+ Builds good shape to protect Black's weakness. G17 may be next Black's move. Black cannot allow this group to be weak.])
+(;B[dp]LB[gc:E][ie:C][pf:B][kg:A][dp:D]C[Abandoning the fight is a bad idea.])
+(;B[gc]LB[gc:E][ie:C][pf:B][kg:A][dp:D]C[Good idea to strengthen Black, but inefficient: still leaves weaknesses.]))

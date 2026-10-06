@@ -1,0 +1,64 @@
+(;FF[4]GM[1]CA[UTF-8]AP[besogo:0.0.2-alpha]SZ[19]ST[0]
+HA[0]KM[0]GN[Cho L&D (abc)]
+AB[bb][cc][dc][ec]AW[be][cd][dd][ed][fb][fc][fd]
+(;B[da]
+;W[bc]
+(;B[ab]
+;W[ca]
+(;B[eb]
+;W[cb]
+;B[ba]
+C[+])
+(;B[ba]
+;W[db]
+;B[eb]
+;W[ea]
+;B[cb]
+C[+]))
+(;B[ac]
+;W[ad]
+C[Wrong; advantageous ko.]))
+(;B[ca]
+;W[bc]
+(;B[ac]
+;W[ad]
+C[Wrong; advantageous ko.])
+(;B[ab]
+;W[ea]
+(;B[da]
+;W[db])
+(;B[eb]
+;W[da])
+(;B[db]
+;W[da])
+(;B[ac]
+;W[bd]
+(;B[da]
+;W[db])
+(;B[eb]
+;W[da])
+(;B[db]
+;W[da])))
+(;B[eb]
+;W[ab]))
+(;B[eb]
+;W[bc]
+(;B[ac]
+;W[ad]
+C[Wrong; advantageous ko.])
+(;B[ab]
+;W[da]))
+(;B[bd]
+;W[ad]
+(;B[bc]
+;W[ca])
+(;B[ac]
+C[Wrong; advantageous ko.]
+;W[bc]))
+(;B[ac]
+;W[ad]
+(;B[ca])
+(;B[db]
+;W[bc])
+(;B[da])
+(;B[eb])))

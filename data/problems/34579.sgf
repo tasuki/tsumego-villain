@@ -1,0 +1,10 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+AW[nc][qc][md][qd][cf][ef][gf][qf][qn][rp]AB[lc][mc][oc][dd][fd][nd][pd][ne][di][dp][jp][np][pp]LB[hd:A][gi:B]TR[gf]
+(;B[gi]TE[2]
+;W[he]LB[hc:A][hg:B]C[The marked stones are thick, so Black should jump to 1 and drive the white stones toward that strong position. ]
+;B[hc]
+;W[je]LB[jc:A][ji:B]
+;B[ji]C[+White will probably live in gote, but Black is satisfied with the moyo he has staked out at the bottom.])
+(;B[hd]
+;W[fi]))

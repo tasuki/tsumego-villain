@@ -1,0 +1,12 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[Белые1]PB[Черные]AW[gq][jq]AB[cm][qo][dp][lq][pq]LB[gq:1]
+(;B[eq]C[+])
+(;B[dq]
+;W[er])
+(;B[fq]
+;W[fr])
+(;B[fp]
+;W[er])
+(;B[fr]
+;W[eq]LB[fr:A]TR[cm][dp]C[A is sharp. You should use it if marked form is more powerful]))

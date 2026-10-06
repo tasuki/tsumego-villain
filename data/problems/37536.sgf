@@ -1,0 +1,10 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+CR[jo]AW[dc][gc][hc][ic][kc][kd][md][le][lf][lg][jh][kh][di][dj][cl][cm][qn][co][jo][cp][pp][oq]AB[hd][id][jd][pd][ce][fe][ke][if][kf][kg][lh][li][ek][pk][dm][do][no][dp][hp][dq][nq][nr]TR[jh][kh]
+(;B[jm]TE[2]
+;W[jq]LB[kn:A][kp:B]
+;B[kp]
+;W[jp]LB[kn:A][hq:B][ir:C]C[Connecting is bad, because the three white stones are dead.]
+;B[hq]C[+])
+(;B[jq]
+;W[ho]C[Too submissive.]))

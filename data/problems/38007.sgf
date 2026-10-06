@@ -1,0 +1,9 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[6.50]
+PW[Белые]PB[Черные]AW[ba][ca][da][ea][eb][bc][ec][bd][ed][be][ce][de][cg]AB[fa][bb][cb][fb][cc][dc][fc][cd][dd][fd][ee][ef]
+(;B[ab]LB[aa:A][db:B]TR[ac]C[+
+After the triangle move, seki arises by miai A and B])
+(;B[aa]
+;W[ab])
+(;B[db]
+;W[ab]))

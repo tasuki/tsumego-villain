@@ -1,0 +1,20 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[6.50]
+AW[lb][mc][od][pd][qd][qe][pg][qg][rg]AB[pe][nf][pf][og][oh][ph][qh][rh]
+(;B[sg]LB[se:B][rf:A]C[+
+
+there are the answer`s options ])
+(;B[rf]
+;W[qf]
+;B[sg]
+;W[re]
+;B[sf]
+;W[se]
+;B[sh]C[Gote])
+(;B[sf]
+;W[rf]
+;B[sg]
+;W[se]
+;B[sh]C[Gote])
+(;B[qf]
+;W[rf]LB[ne:A]C[Extra option is provided by losing dame]))

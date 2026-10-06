@@ -1,0 +1,27 @@
+(;FF[4]GM[1]CA[UTF-8]AP[besogo:0.0.2-alpha]SZ[5]ST[2]
+RU[Japanese]KM[0.00]PW[White]PB[Black]
+AB[ac][bc][cc][dd][ee]AW[ab][ad][bb][cb][db][eb][ec]
+(;B[ed]
+;W[be]
+;B[ce]
+;W[dc]
+;B[cd]
+C[Seki is not the best result here.])
+(;B[be]
+;W[bd]
+;B[cd]
+;W[ed]
+;B[de]
+;W[dc]
+;B[ae]
+C[+])
+(;B[bd]
+;W[ed]
+;B[de]
+;W[dc]
+(;B[ae]
+C[+])
+(;B[be]
+C[+])
+(;B[ce]
+C[+])))

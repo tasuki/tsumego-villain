@@ -1,0 +1,21 @@
+(;FF[4]GM[1]CA[UTF-8]AP[besogo:0.0.2-alpha]SZ[19]ST[2]
+RU[Japanese]KM[0.00]GN[��������� �����]GC[100 ��� ������.]SO[����������.ru]
+AB[oc][od][po][pq][qd]AW[cd][do][dq][nc][nd]LB[ed:B][jp:D][lc:A][ne:E][pj:C]
+(;B[lc]LB[ed:B][jp:D][lc:A][ne:E][pj:C]
+;W[ne]LB[pg:A]
+;B[pg]
+;W[jc]
+C[Black should aim at more points. Too meek.])
+(;B[ed]TR[do][dq]LB[ed:B][jp:D][lc:A][ne:E][pj:C]
+C[+ Large move, making O15 more efficient.])
+(;B[pj]LB[ed:B][jp:D][lc:A][ne:E][pj:C]
+C[Big move, but too passive.])
+(;B[jp]LB[ed:B][jp:D][lc:A][ne:E][pj:C]
+C[Big move, but passive. Weak stones and corners are more important.])
+(;B[ne]LB[ed:B][jp:D][lc:A][ne:E][pj:C]
+;W[me]LB[mf:A]
+;B[mf]
+;W[le]LB[lf:A]
+;B[lf]
+;W[ke]TR[lf][mf][ne][oc][od][po][qd]
+C[+ Black pressures White and builds a strong moyo / framework. Further, Black should approach C16 stone.]))

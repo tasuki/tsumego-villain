@@ -175,7 +175,8 @@ def parse_sgf(html: str) -> str:
         value = json.loads(match.group("value"))
         if isinstance(value, str):
             sgf = value.strip()
-            if not sgf.startswith("(;") or "GM[1]" not in sgf[:100]:
+            # GM defaults to Go in SGF and is omitted by some valid files.
+            if not sgf.startswith("(;"):
                 continue
             if not sgf.endswith(")"):
                 raise ValueError("SGF Blob appears to be truncated")
@@ -229,6 +230,18 @@ def write_problem_index(
     temporary.replace(path)
 
 
+def confirm_skip_server_error(problem: ProblemRef, error: requests.HTTPError) -> bool:
+    status = error.response.status_code if error.response is not None else "unknown"
+    prompt = (
+        f"{problem.url} still returns HTTP {status} after retries. "
+        "Skip this problem and continue? [y/N] "
+    )
+    try:
+        return input(prompt).strip().lower() in {"y", "yes"}
+    except EOFError:
+        return False
+
+
 def scrape_set(
     set_info: SetInfo,
     client: PoliteClient,
@@ -236,24 +249,35 @@ def scrape_set(
     problems_dir: Path,
     refreshed: set[int],
     force: bool,
-) -> tuple[int, int]:
+) -> tuple[int, int, int]:
     print(f"[{set_info.id}] {set_info.name}: reading set index", flush=True)
     html = client.get(f"{BASE_URL}/sets/view/{set_info.id}")
     problems = parse_problem_refs(html, set_info.problem_count)
     set_dir = sets_dir / set_info.slug
     write_problem_index(set_dir, problems, set_info.problem_count)
 
-    downloaded = reused = 0
-    for problem in problems:
+    downloaded = reused = skipped = 0
+    for ordinal, problem in enumerate(problems, start=1):
         link = set_dir / sgf_filename(problem.position, set_info.problem_count)
         canonical = problems_dir / f"{problem.tsumego_id}.sgf"
         should_download = force and problem.tsumego_id not in refreshed
 
         if should_download or not canonical.is_file():
-            problem_html = client.get(problem.url)
             try:
+                problem_html = client.get(problem.url)
                 sgf = parse_sgf(problem_html)
-            except ValueError as error:
+            except requests.HTTPError as error:
+                response = error.response
+                if (
+                    response is not None
+                    and response.status_code >= 500
+                    and confirm_skip_server_error(problem, error)
+                ):
+                    skipped += 1
+                    print(f"  skipped {problem.url}", file=sys.stderr, flush=True)
+                    continue
+                raise ValueError(f"{problem.url}: {error}") from error
+            except (requests.RequestException, ValueError) as error:
                 raise ValueError(f"{problem.url}: {error}") from error
             atomic_write_text(canonical, sgf)
             refreshed.add(problem.tsumego_id)
@@ -262,13 +286,19 @@ def scrape_set(
             reused += 1
 
         ensure_relative_symlink(link, canonical)
+        source_position = (
+            f" (source position {problem.position})"
+            if problem.position != ordinal
+            else ""
+        )
         print(
-            f"  {problem.position:>{len(str(set_info.problem_count))}}/"
-            f"{set_info.problem_count} {link.name} -> {os.readlink(link)}",
+            f"  {ordinal:>{len(str(set_info.problem_count))}}/"
+            f"{set_info.problem_count} {link.name}{source_position}"
+            f" -> {os.readlink(link)}",
             flush=True,
         )
 
-    return downloaded, reused
+    return downloaded, reused, skipped
 
 
 def parse_args() -> argparse.Namespace:
@@ -321,7 +351,7 @@ def main() -> int:
                 raise ValueError(f"set ID {args.set_id} is not in {args.sets_index}")
 
         refreshed: set[int] = set()
-        totals = [0, 0]
+        totals = [0, 0, 0]
         with PoliteClient(args.delay, args.timeout) as client:
             for set_info in selected_sets:
                 counts = scrape_set(
@@ -338,7 +368,8 @@ def main() -> int:
         return 1
 
     print(
-        f"Done: {totals[0]} downloaded, {totals[1]} reused from the problem store"
+        f"Done: {totals[0]} downloaded, {totals[1]} reused from the problem store, "
+        f"{totals[2]} skipped"
     )
     return 0
 

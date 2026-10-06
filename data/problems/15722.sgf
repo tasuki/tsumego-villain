@@ -1,0 +1,6 @@
+(;FF[4]GM[1]CA[UTF-8]AP[besogo:0.0.2-alpha]SZ[19]ST[2]
+RU[Japanese]KM[0.00]GN[Cho L&D (abc)]
+AB[bb][bc][cd][ce][de][ee][fe][gd][hb][hc][hd][jb]AW[cb][cc][dd][ed][fd][gb][gc]LB[mb:1][mc:6][md:11][nb:2][nc:7][nd:12][ob:3][oc:8][od:13][pb:4][pc:9][pd:14][qb:5][qc:10][qd:15]
+C[How many different moves are possible to kill the group without ko?]
+;B[nd]
+C[+There are 12 possible ways to cleanly kill the group! Can you find the move that does NOT kill cleanly?])

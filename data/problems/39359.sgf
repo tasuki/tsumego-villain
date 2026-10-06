@@ -1,0 +1,15 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[Белые]PB[Черные]AW[ea][ga][db][hb][cc][dc][gc][ic][dd][gd][ee][fe][ge]AB[fa][bb][cb][fb][gb][bc][ec][fc][cd][ed][fd][ce][de]
+;B[ha]
+;W[ia]
+(;B[ca]
+;W[ga]C[+
+
+ko])
+(;B[da]
+;W[ca]
+;B[ba]
+;W[ga]LB[da:A]C[Too much. Here move at A is ko. You need to win at semeai by ko twice])
+(;B[eb]
+;W[ga]))

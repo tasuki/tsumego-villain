@@ -1,0 +1,8 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+GN[��������� �����]GC[12 ��� �����. ]SO[����������.ru]AW[cc][jc][kc][oc][dd][kd][od][cf][nf][dl][cn][qn][bp][pp][lq][qq]AB[db][fc][ic][pc][id][jd][qd][pe][pg][ql][dp][fp][np][cq][jq][oq][pq]LB[pl:A][lo:C][qp:B][iq:D][qr:E]
+(;W[pl]LB[pl:A][lo:C][qp:B][iq:D][qr:E]C[Good idea to strengthen White's corner group, but creates more local weaknesses and helps Black to build points as well.])
+(;W[qp]LB[pl:A][lo:C][qp:B][iq:D][qr:E]C[Inefficient shape, White is overconcentrated.])
+(;W[lo]LB[pl:A][lo:C][qp:B][iq:D][qr:E]C[It is good to help M3, but the corner group is more important. Having two weak and heavy groups nearby is a bad idea.])
+(;W[iq]LB[pl:A][lo:C][qp:B][iq:D][qr:E]C[Not urgent - White can invade later.])
+(;W[qr]LB[pl:A][lo:C][qp:B][iq:D][qr:E]C[+ Stabilizes White's group, gains points, and highlights aji around stones R8 and M3. ]))

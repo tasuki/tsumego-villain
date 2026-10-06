@@ -1,0 +1,13 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[6.50]
+PW[Белые]PB[Черные]AW[ca][bb][db][bc][cc][gc][hc][dd][ed][ee][he][ef][hf]AB[eb][dc][ec][bd][cd][fd][de][bf][cf][ff]
+(;B[eg]
+;W[df]
+;B[dg]
+;W[ce]
+(;B[fe]C[+])
+(;B[be]TR[gc][hc][he][hf]SQ[dd][ed][ee][df][ef]C[+
+Its possible, but you should catch the five square marked stones
+If the triangle marked stones are in danger, they can now be saved]))
+(;B[fe]
+;W[eg]))

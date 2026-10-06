@@ -1,0 +1,96 @@
+(;FF[4]GM[1]CA[UTF-8]AP[besogo:0.0.2-alpha]SZ[19]ST[2]
+RU[Japanese]KM[0.00]PW[White]PB[Black]
+AB[ad][be][cb][cc][cd]AW[bf][ce][cf][db][dc][dd][de][fb]
+G[KILL]
+(;W[ca]
+;B[ba]
+;W[ab]
+;B[af]
+(;W[bh]
+;B[bb]
+(;W[ag]
+;B[ac]
+;W[bd]
+;B[bc]
+;W[ae]
+C[Best ko because the group is under control]
+S[KO+])
+(;W[ac]
+;B[bc]
+;W[ag]
+;B[aa]
+;W[ae]
+C[Best ko because the group is under control]
+S[KO+]))
+(;W[ag]
+;B[bg]
+C[Not the best ko: the group is not under control and can spread across the side.]
+S[KO+])
+(;W[bb]
+(;B[bc]
+(;W[da]
+;B[bg]MA[ba][ch]
+C[You cannot prevent the Eye in the corner AND the escape simultaneously.]
+S[ALIVE])
+(;W[aa]
+;B[ac]
+;W[ag]
+;B[ba]
+S[ALIVE])
+(;W[ag]
+;B[bg]
+C[Not the best ko: the group is not under control and can spread across the side.]
+S[KO+])
+(;W[bg]
+;B[da]
+S[ALIVE])
+(;W[bh]
+;B[da]
+S[ALIVE]))
+(;B[bg]MA[bc][bg]
+C[Refusing to play the killing Ko creates a situation where it is rather hard to stop the escape.]
+S[ALIVE]))
+(;W[bg]
+;B[bb]
+(;W[ag]
+;B[ac]
+;W[bd]
+;B[bc]
+;W[ae]
+C[Best ko because the group is under control]
+S[KO+])
+(;W[ac]
+;B[bc]
+;W[ag]
+;B[aa]
+;W[ae]
+C[Best ko because the group is under control]
+S[KO+])))
+(;W[ab]
+;B[bb]
+(;W[ac]
+;B[bc]
+S[ALIVE])
+(;W[ca]
+;B[af]
+(;W[bh])
+(;W[ag]
+;B[bg]
+C[Not the best ko: the group is not under control and can spread across the side.]
+S[KO+])
+(;W[bg]))
+(;W[af]
+;B[ac]
+;W[bd]
+;B[aa]
+(;W[ae]
+;B[ca]
+S[ALIVE])
+(;W[ca]
+;B[ae]
+S[ALIVE])))
+(;W[bb]
+;B[ba]
+;W[ab]
+;B[bc]
+S[ALIVE]))

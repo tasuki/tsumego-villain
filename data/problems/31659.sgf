@@ -1,0 +1,16 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[6.50]
+AW[kc][nc][qc][nd]AB[ic][oc][pd][pf]LB[ob:A][pc:B][qd:C]
+(;B[ob]
+;W[qe]
+;B[pe]
+;W[qf]
+;B[qd]
+;W[rd]
+;B[qg]LB[je:A]C[+
+
+Move 1 is correct. Even though opponent can live in the corner, he does so in gote and you can then proceed to attack the three white stones at the side by jumping to A])
+(;B[qd]
+;W[ob]CR[kc][nc][nd]LB[ob:2][qd:1]TR[qc]C[Move at 1 is too passive. The circles marked group can stabilize at the side with 2.])
+(;B[pc]
+;W[ke]LB[pc:1][ke:2]C[Move 1 is a special strategy, but it is inferior in most cases.because 1 duplicates the efforts of the triangle marked stone.The stone in the corner is still alive]))

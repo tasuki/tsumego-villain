@@ -1,0 +1,22 @@
+(;FF[4]GM[1]CA[UTF-8]AP[besogo:0.0.2-alpha]SZ[19]ST[2]
+RU[Japanese]KM[0.00]PW[White]PB[Black]
+AB[bb][bd][cb][cc][cd]AW[be][bg][ce][db][dc][de][fb]LB[bb:A]
+G[KILL]
+(;W[ac]
+;B[ad]
+(;W[ab]
+(;B[ca]
+;W[aa]
+C[The shape move result in a bent four in the corner. The group isn't strictly dead untill the end of the game, be cautious !]
+S[DEAD])
+(;B[aa]
+;W[ca]
+S[DEAD]))
+(;W[ca]))
+(;W[ca]
+;B[ba]
+C[The hane is not the shape move, but it is indeed the stronger way to kill.]
+;W[ac]
+;B[ad]
+;W[ab]
+S[DEAD]))

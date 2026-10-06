@@ -1,0 +1,10 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[6.50]
+AW[gc][jc][pc][qc][od][oe][pf][pg][qg][cl][dl][dm][dn][dp][ep][fp][pp][fq]AB[rb][dc][rc][qd][de][pe][qf][rg][ch][rh][cm][cn][cp][kp][cq][dq][eq][iq]LB[eh:C][qn:B][nq:A]
+(;B[nq]CR[cl][dl][dm][dn][dp][ep][fp][fq]TR[kp][iq][nq]SQ[pp]C[+
+
+A good approach in the right direction. Protecting a weak group has reduced the influence])
+(;B[qn]
+;W[nq]TR[kp][iq]C[The stones are under attack])
+(;B[eh]
+;W[mq]TR[kp][iq]C[The stones are under attack]))

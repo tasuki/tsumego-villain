@@ -1,0 +1,26 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[6.50]
+AW[kc][oc][gd][jd][pd][je][pf][ig][pj][pn][pp][qq]AB[dc][lc][nc][nd][de][ke][kf][ch][cq][kq][nq][pr]LB[qc:A][kh:B][dn:C]
+(;B[kh]LB[qc:2][dn:1]C[+
+
+The weak group protection is best. 1 and 2 are next points by importance
+])
+(;B[qc]
+;W[ob]
+;B[qe]
+;W[pe]
+;B[qf]
+;W[qd]
+;B[rd]
+;W[qg]
+;B[rg]
+;W[rc]
+;B[re]
+;W[qb]
+;B[qh]
+;W[pg]
+;B[ri]
+;W[kh]LB[me:A]C[It's already hard. 
+The next blow will end the torment])
+(;B[dn]
+;W[kh]LB[mb:1][ob:2][qc:A]SQ[lc][nc][nd][ke][kf]C[After 1-2 protecting echange A has become territory]))

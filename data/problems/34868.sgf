@@ -1,0 +1,10 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+AW[fc][dd][qf][pi][ej][gj][ck][dm][dn][ln][lo][qo][cp][gp][ip][mp][dq][fq][gq][hq][iq][lq][mq][cr][gr][mr]AB[jd][pd][re][rf][el][em][pm][go][ho][io][ko][mo][no][po][ep][fp][hp][kp][lp][np][qp][eq][pq][dr][fr]TR[qf][pi]
+(;B[ni]TE[2]
+;W[qk]LB[og:A][ok:B]
+;B[og]C[+])
+(;B[qg]
+;W[pg]CR[qh]
+;B[qh]
+;W[ni]C[White lightly jumps to 4 and Black no longer has an attack.]))

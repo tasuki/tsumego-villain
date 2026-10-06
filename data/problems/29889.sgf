@@ -1,0 +1,31 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[Белые]PB[Черные]AW[do][dq]AB[po][pq]
+(;B[jq]LB[jo:B][hq:A]C[+
+
+Middle of the side is good point. If opponents play at A, you can answer at B or tenuki
+
+])
+(;B[kq]
+;W[iq])
+(;B[iq]
+;W[kq]LB[fq:A]C[play at A]
+;B[fq]
+;W[nq]C[+
+
+Six-space-jump is possible. but its too risky. Of couse you have two-space-jump for following development on the side
+But opponent can build two-space-group inside six-space extention
+])
+(;B[jp]C[+])
+(;B[ip]
+;W[kq]LB[jq:A]C[play at A]
+;B[jq]
+;W[kp]LB[in:A]C[play at A]
+;B[in]
+;W[nq]LB[fq:A]C[play at A]
+;B[fq]
+;W[kn]C[+
+
+Six-space-jump is possible. but its too risky. Of couse you have two-space-jump for following development on the side
+But opponent can build two-space-group inside six-space extention.
+]))

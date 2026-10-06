@@ -1,0 +1,24 @@
+(;FF[4]GM[1]CA[UTF-8]AP[besogo:0.0.2-alpha]SZ[19]ST[2]
+RU[Japanese]KM[0.00]GC[153 ��� �����.]
+AB[ag][bc][bd][bf][bh][cc][cf][dc][ef][fc][fq][gc][jk][jp][ki][lc][me][mi][ni][np][od][pd][pj][pp][qd][qj][qo][re]AW[ae][af][be][cd][ce][ch][cn][dd][dp][dr][ed][eh][fd][km][lj][mj][mm][nc][oc][ok][pc][pn][qc][ql][qn][rc][rd]LB[bi:A][ci:B][df:C][ff:D][gd:E]
+(;W[bi]LB[bi:A][ci:B][df:C][ff:D][gd:E]
+;B[df]
+C[D16 group is very weak, hence White cannot attack from this direction. Black fixes the shape with D14 and counterattacks D16 group simultaneously.])
+(;W[ci]LB[bi:A][ci:B][df:C][ff:D][gd:E]
+;B[df]
+C[D16 group is very weak, hence White cannot attack from this direction. Black fixes the shape with D14 and counterattacks D16 group simultaneously.])
+(;W[df]LB[bi:A][ci:B][df:C][ff:D][gd:E]
+;B[dg]LB[dh:A]
+;W[dh]
+(;B[eg]LB[cg:A]
+;W[cg]
+;B[bg]
+C[+D16 group is safe while Black's B13 group is not. White will profit from this attack.])
+(;B[de]
+;W[ff]
+C[+]))
+(;W[ff]LB[bi:A][ci:B][df:C][ff:D][gd:E]
+;B[df]TR[ci][fg]
+C[Further Black will either cut or escape the left side. White cannot stop this.])
+(;W[gd]LB[bi:A][ci:B][df:C][ff:D][gd:E]
+C[Neither really helps White's group nor makes use of Black weaknesses.]))

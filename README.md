@@ -47,7 +47,12 @@ mise exec -- python scripts/scrape_problems.py --all
 
 Requests are sequential and start at least 1.5 seconds apart, with jitter and
 exponential retry backoff. Existing files are skipped, so interrupted runs are
-safe to resume. The delay cannot be configured below one second.
+safe to resume. The delay cannot be configured below one second. If an
+individual problem still returns a server error after retries, the scraper asks
+before skipping it. Every additional skip requires confirmation, while a set
+index failure stops immediately; this prevents a global outage from causing an
+unattended stream of failed requests. Other errors stop with a nonzero exit
+status. Rerunning resumes from the files already downloaded.
 
 Each SGF is stored once under its internal tsumego ID. Numbered entries in a
 set are relative symbolic links to those canonical files:

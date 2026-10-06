@@ -1,0 +1,9 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[13]KM[6.50]
+AW[ib][jb][ec][hc][hd]AB[kb][cc][ic][jc][jd][kd][ce][jf][ji]LB[gb:B][ee:A]
+(;B[ee]LB[ee:1]
+;W[gb]LB[gb:2][ee:1]C[Move at 1 is unsatisfactory since it lets group patch up its defect by playing at 2.])
+(;B[gb]
+;W[hb]
+(;B[fc]LB[eb:B][fd:A]C[+])
+(;B[eb]C[+])))

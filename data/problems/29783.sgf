@@ -1,0 +1,14 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+GN[ ]PW[ ]PB[ ]AW[ed][fd][de][fe][cf][ff][gf][dg][gg][hg][hh]AB[dc][ec][fc][cd][ce][ee][ge][ef][hf][fg][ig][gh][ih][hi]FG[259:]PM[1]
+(;B[gd]
+(;W[dd]
+;B[df]C[+])
+(;W[df]
+;B[dd]C[+])
+(;W[fh]
+;B[dd]C[+])
+(;W[eg]
+;B[dd]C[+]))
+(;B[dd]
+;W[gd]LB[he:B][eg:A]C[A and B are miai]))

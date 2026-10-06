@@ -1,0 +1,36 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[6.50]
+AW[ba][ab][cb][nb][rb][sb][cc][oc][pc][qc][bp][rp][bq][cq][eq][qq][er][qr][rr][rs]AB[ca][da][ea][db][mb][dc][mc][nc][rc][dd][od][pd][qd][rd][ce][cf][bg][pm][rm][cn][qn][bo][qo][cp][dp][ep][qp][fq][pq][fr][pr][ps][qs]
+(;B[bc]
+;W[bd]
+;B[cd]
+;W[bb]
+;B[ad]
+;W[ac]
+;B[ae]
+;W[be]
+;B[af]C[Good job. Search further])
+(;B[pa]
+;W[ob]
+(;B[oa]LB[na:A][qb:B]C[Good job. Search further])
+(;B[na]
+;W[oa]
+;B[qb]
+;W[ma]
+;B[ra]C[Good job. Search further]))
+(;B[es]
+;W[dr]
+;B[bs]C[Good job. Search further])
+(;B[sp]
+;W[ro]
+;B[sr]
+;W[sq]
+;B[rq]C[+
+
+Here ko. The rest simply die when attacked])
+(;B[sq]
+;W[sr]
+;B[sp]
+;W[ro]
+;B[so]
+;W[sn]))

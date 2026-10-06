@@ -1,0 +1,24 @@
+(;FF[4]GM[1]CA[UTF-8]AP[besogo:0.0.2-alpha]SZ[19]ST[2]
+RU[Japanese]KM[0.00]PW[white]PB[black]
+AB[ad][ba][bd][cd][dc][ec][fb][fc]AW[ac][bb][bc][cc][db][eb]
+(;B[ca]
+;W[aa]
+(;B[ab]
+;W[cb]
+;B[ea]
+;W[aa]
+C[This is ko but the defender takes first. It should be the attack side takes first.])
+(;B[ea]
+;W[cb]
+;B[ab]
+C[+]))
+(;B[aa]
+;W[ca]
+;B[ea]
+;W[ab])
+(;B[da]
+;W[ea])
+(;B[ea]
+;W[ca]
+;B[fa]
+;W[aa]))

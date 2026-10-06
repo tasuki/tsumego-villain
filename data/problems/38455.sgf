@@ -1,0 +1,30 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[Белые]PB[Черные]AW[bb][bc][ec][fc][gc][bd][fd][ge][cf][ef][ff]AB[cb][fb][gb][cc][hc][cd][dd][ed][hd][jd]
+(;B[eb]C[+
+
+Best solution!])
+(;B[db]
+;W[eb]
+;B[ea]TR[da][fa]C[+
+
+It's possible, but a few points have been lost.
+])
+(;B[da]
+;W[eb]
+;B[ea]C[+
+
+It's possible, but a few points have been lost.
+])
+(;B[ea]
+;W[ca]
+(;B[da]
+;W[ba]
+;B[db]C[+
+
+It's possible, but a few points have been lost.
+])
+(;B[db]C[+
+
+It's possible, but a few points have been lost.
+])))

@@ -1,0 +1,17 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[13]KM[0.00]
+PW[Белые]PB[Черные]AW[gb][kb][gc][kc][gd][hd][jd][kd][lf][ig][jg][kg]AB[jb][hc][jc][id][ge][je][jf][fg][hg][hh]
+(;B[he]C[+])
+(;B[hf]
+;W[if])
+(;B[if]
+;W[he]LB[ie:B][hf:A]C[
+
+A and B are miai for cutting
+])
+(;B[ie]
+;W[he]
+(;B[hf]
+;W[if])
+(;B[if]
+;W[hf])))

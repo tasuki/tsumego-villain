@@ -1,0 +1,75 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[6.50]
+DT[2021-09-11]AW[nn][on][mo][np][pp][qp][oq][rq][qr]AB[nm][om][ln][pn][qn][lo][ro][mp][rp][mq][nq][qq]
+(;B[rr]
+;W[sq]
+;B[pr]
+;W[pq]
+;B[qs]
+;W[qq]
+;B[or]
+;W[rs]
+(;B[oo]
+;W[ps]
+(;B[nr]
+;W[sr]
+(;B[po]
+;W[op]
+;B[no]
+;W[sp]
+;B[so]
+;W[qo]
+(;B[rn]
+;W[os])
+(;B[rm]
+;W[os]))
+(;B[mn]
+;W[op]C[White can one point better.]
+;B[no]
+;W[sp]C[White can do one point better.])
+(;B[no]
+;W[op]
+(;B[mn]
+;W[sp]C[White can do one point better.])
+(;B[po]
+;W[sp]
+;B[so]
+;W[qo]
+(;B[rn]
+;W[os])
+(;B[rm]
+;W[os])))
+(;B[op]
+;W[po]))
+(;B[ns]
+;W[sr]
+(;B[po]
+;W[op]
+;B[no]C[+])
+(;B[mn]
+;W[op]C[White can one point better.]
+;B[no]
+;W[sp]C[White can do one point better.])
+(;B[no]
+;W[op]
+(;B[mn]
+;W[sp]C[White can do one point better.])
+(;B[po]C[+]))
+(;B[op]
+;W[po])))
+(;B[ss]
+;W[sr])
+(;B[sr]
+;W[ps]
+(;B[nr]
+;W[po])
+(;B[ns]
+;W[po])))
+(;B[oo]
+;W[pq]
+(;B[op]
+;W[po])
+(;B[no]
+;W[op])
+(;B[po]
+;W[op])))

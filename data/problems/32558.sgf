@@ -1,0 +1,16 @@
+(;FF[4]GM[1]CA[UTF-8]AP[besogo:0.0.2-alpha]SZ[19]ST[2]
+RU[Japanese]KM[0.00]GC[125 ��� ������.]
+AB[ao][bc][be][bi][bk][bn][bp][cb][ce][ci][cj][cl][cm][cn][db][df][dm][fr][gl][gm][gn][gq][hk][hl][ho][hp][ih][ij][ik][jj][jq][lc][lf][lg][lh][nc][nn][no][np][nq][oc][or][pd][pr][qc][qd][qf][qh][qi][qp][qq][rd][rh][rj][rk]AW[bf][bh][bo][bq][ck][co][dc][dg][dh][dj][dl][dn][do][dq][eb][ej][el][em][er][fd][ff][fk][fo][gj][go][hm][hn][il][io][jc][je][jk][jl][kf][kg][kh][ki][kj][mp][ob][on][pb][pc][pi][pl][po][pp][pq][qb][qj][qk][qo][rb][rc][ri][rl][ro]LB[im:A][in:D][kk:B][kl:C][km:E]
+(;B[im]LB[im:A][in:D][kk:B][kl:C][km:E]
+;W[in]TR[jm][kn][lo][mp]
+C[The ladder works for White.])
+(;B[kk]LB[im:A][in:D][kk:B][kl:C][km:E]
+;W[kl]
+C[White will be able to live on the bottom, Black gains nothing.])
+(;B[kl]LB[im:A][in:D][kk:B][kl:C][km:E]
+C[+Black will cut at J7 or L9 next, saving his J10 group. Note that Black cannot cut at A directly due to the ladder.])
+(;B[in]LB[im:A][in:D][kk:B][kl:C][km:E]
+;W[im]SQ[gl][gm][gn][hk][hl][ih][ij][ik][jj]
+C[Now J10 group is dead.])
+(;B[km]SQ[gl][gm][gn][hk][hl][ih][ij][ik][jj]LB[im:A][in:D][kk:B][kl:C][km:E]
+C[White will protect the cut at A. Dead J10 group is too big, game is over.]))

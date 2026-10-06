@@ -1,0 +1,14 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+AW[fc][lc][bd][dd][me][ol][ql][pp][fq][iq][oq][dr]AB[jc][kd][od][qd][cf][ef][dj][oj][qj][dn][dp][cq]LB[lc:1][kd:2][me:3]
+(;B[nc]TE[2]
+;W[ld]LB[kf:A][lf:B]
+;B[kf]
+;W[mg]LB[kh:A][lh:B]
+;B[lh]C[+])
+(;B[ld]
+;W[md]CR[mc]
+;B[mc]
+;W[nc]CR[mb]
+;B[mb]
+;W[oc]LB[lb:A]C[Note that White threatens to capture the two marked stones by playing A. ]))

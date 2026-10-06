@@ -1,0 +1,9 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+GN[Волшебный набор]SO[гопроблемс.ru]AW[oc][cd][od][oe][ng][do][cp][pq]AB[ec][pc][pd][qe][pf][qo][fp][eq]LB[ob:D][ic:A][ld:E][cg:C][pi:B]G[tt]
+(;B[ic]LB[ob:D][ic:A][ld:E][cg:C][pi:B]SQ[oc][od][oe][ng]C[+ Classic move that reinforces Black's weak stone and realises keshi - damping the influence of White's wall on the right, without approaching too close.])
+(;B[pi]LB[ob:D][ic:A][ld:E][cg:C][pi:B]C[One purpose move, inefficient.])
+(;B[cg]LB[ob:D][ic:A][ld:E][cg:C][pi:B]TR[oc][od][oe][ng]SQ[ec]C[Before attacking, it is important to become stronger locally.])
+(;B[ob]LB[ob:D][ic:A][ld:E][cg:C][pi:B]C[Yose move, now?])
+(;B[ld]LB[ob:D][ic:A][ld:E][cg:C][pi:B]
+;W[hc]C[Inefficient: too close to White's wall, White will be happy to counterattack.]))

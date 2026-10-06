@@ -1,0 +1,12 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+CR[qh]AW[dd][cf][qh][ql][jp][pp]AB[fc][oc][jd][qd][qj][dp]LB[oi:A][pi:B][oj:C][pk:D]
+(;B[pi]TE[2]
+;W[qe]LB[pd:A][rd:B]
+;B[pd]C[+])
+(;B[oj]
+;W[rj]C[+The AI decides to jump and not attack White severely.])
+(;B[oi]
+;W[pj])
+(;B[pk]
+;W[pl]))

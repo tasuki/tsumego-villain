@@ -1,0 +1,41 @@
+(;FF[4]GM[1]CA[UTF-8]AP[besogo:0.0.2-alpha]SZ[19]ST[2]
+RU[Japanese]KM[0.00]PW[White]PB[Black]
+AB[bd][bh][cb][cc][cd][ch]AW[be][ce][db][dc][dd][de][eb]
+(;B[ad]
+;W[ae]
+(;B[ab]
+C[+]
+S[ALIVE])
+(;B[bb])
+(;B[ca]
+;W[ab]
+;B[bb]))
+(;B[ab]
+;W[ad]
+(;B[ba]
+C[BAD. Alive minus two points]
+S[ALIVE])
+(;B[ac]
+;W[ba]))
+(;B[bb]
+;W[ac]
+;B[ad]
+;W[ae]
+(;B[ab]
+C[+]
+S[ALIVE])
+(;B[ca]
+;W[ab]
+;B[aa]
+;W[ba]
+S[KO+]))
+(;B[ae]
+;W[af]
+;B[ad]
+;W[bg]
+(;B[ab]CR[bf]TR[bh]
+C[+Alive but wasn't the Hane a waste ?]
+S[ALIVE])
+(;B[bb]CR[bf]TR[bh]
+C[+Alive but wasn't the Hane a waste ?]
+S[ALIVE])))

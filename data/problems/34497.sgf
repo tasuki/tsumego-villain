@@ -1,0 +1,10 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+AW[cd][gd][cg][nm][on][pn][cp][mp][qp]AB[ec][oc][qd][fe][pi][pl][no][oo][eq][oq]TR[pi]
+(;W[pq]TE[2]
+;B[mo]LB[kp:A][lp:B]
+;W[kp]
+;B[ln]LB[jo:B][gq:A][nq:C]
+;W[gq]C[+White maps out territory along the bottom and attacking the black stone in the lower left corner. In addition, the black stones at the bottom right are still without a base. With two vulnerable positions under attack, Black is at a serious disadvantage.])
+(;W[ln]
+;B[qq]))

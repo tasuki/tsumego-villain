@@ -1,0 +1,13 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[13]KM[0.00]
+PW[Белые]PB[Черные]AW[df][ef][ff][ch][ci][gi][hi][ii][cj][fj][ck][fk][gk]AB[hf][jg][gh][hh][fi][ej][ek][el]
+(;B[eh]C[+])
+(;B[fh]
+;W[ei]SQ[ej][ek][el]C[
+
+Marked stones are captured])
+(;B[ei]
+;W[fh]SQ[ei][fi][ej][ek][el]C[
+
+Marked stones are captured
+]))

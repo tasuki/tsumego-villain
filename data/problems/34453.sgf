@@ -1,0 +1,12 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+AW[db][eb][lc][ed][fd][gd][qf][qi][dj][pm][qn][po][dp]AB[cb][bc][dc][gc][nc][dd][pd][qd][ee][fe][ql][qo][qp][nq][pq]TR[ql]
+;W[rm]TE[2]
+;B[rj]LB[qj:A][pk:B]
+;W[qj]
+;B[ri]LB[qh:A][qk:B]
+(;W[qh]
+;B[qk]LB[ok:A][pk:B]
+;W[ok]TR[rm]C[+White confines the black stones with the knight's move of 7. Since White 1 (the marked stone) is on the vital point, Black's stones have no chance of making two eyes.])
+(;W[qk]
+;B[qh]))

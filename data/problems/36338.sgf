@@ -1,0 +1,57 @@
+(;FF[4]GM[1]CA[UTF-8]AP[besogo:0.0.2-alpha]SZ[19]ST[2]
+RU[Japanese]KM[0.00]PW[White]PB[Black]
+AB[be][cb][cc][cd]AW[bf][bh][ce][cf][db][dc][dd][de][fb]
+G[LIVE]
+(;B[ae]
+C[Straight J Group can live by Ko]
+S[KO+])
+(;B[ad]
+;W[ca]CR[ad][be][cb][cc][cd]
+C[J Group will be killed]
+S[DEAD])
+(;B[bd]
+;W[ae]CR[bd][cb][cc][cd]
+C[The L Group is dead]
+S[DEAD])
+(;B[ab]
+;W[ba]
+(;B[ca]
+;W[bd]
+S[DEAD])
+(;B[bc]
+;W[ad]
+S[DEAD]))
+(;B[ba]
+;W[bc]
+S[DEAD])
+(;B[bc]
+;W[ab]
+(;B[af]
+;W[ad]
+;B[ae]
+;W[ac]MA[af]
+C[Good try, but your opponent studied harder and know the answer to X !]
+S[DEAD])
+(;B[ad]
+;W[af]
+S[DEAD])
+(;B[ae]
+;W[ac]
+;B[bb]
+;W[af]
+(;B[bd]
+;W[ca]
+S[DEAD])
+(;B[ca]
+;W[bd]
+S[DEAD])
+(;B[aa]
+;W[ba]
+;B[ca]
+;W[bd]
+S[DEAD]))
+(;B[bb]
+;W[ae]
+;B[ad]
+;W[af]
+S[DEAD])))

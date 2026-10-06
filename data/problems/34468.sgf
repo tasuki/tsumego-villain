@@ -1,0 +1,13 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+AW[dd][qi][dp]AB[od][qd][pp]TR[qi]
+(;B[qk]TE[2]
+;W[qf]LB[of:A][oj:B]
+;B[of]
+;W[oi]LB[ph:A][ok:B]
+;B[ok]
+;W[mi]LB[kc:A][ki:B][pq:C]
+(;B[kc]C[+])
+(;B[pq]C[+]))
+(;B[qg]
+;W[ql]C[Overconcentrated.]))

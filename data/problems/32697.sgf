@@ -1,0 +1,14 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+GN[��������� �����]GC[101 ��� �����. ]SO[����������.ru]AW[gc][oc][pd][ce][qf][pp]AB[dc][jc][nc][nd][ci][do][dq]LB[bc:C][ed:A][je:D][dh:E][jp:B]
+(;W[ed]LB[bc:C][ed:A][je:D][dh:E][jp:B]C[+ The only move: weakens D17, strengthens two White stones, and isolates Black in the corner. ])
+(;W[jp]LB[bc:C][ed:A][je:D][dh:E][jp:B]C[Wrong direction of play: weak stones are more important. ])
+(;W[bc]LB[bc:C][ed:A][je:D][dh:E][jp:B]
+;B[de]LB[df:A]
+;W[df]
+;B[ee]LB[cg:A]
+;W[cg]
+;B[hd]C[G17 stone is useless.])
+(;W[je]LB[bc:C][ed:A][je:D][dh:E][jp:B]
+;B[ed]C[Wrong direction of play: Black gets to separate weak White stones. ])
+(;W[dh]LB[bc:C][ed:A][je:D][dh:E][jp:B]C[Wrong direction of play, Black will start to counterattack with E16.]))

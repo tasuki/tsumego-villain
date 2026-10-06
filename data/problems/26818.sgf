@@ -1,0 +1,28 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[6.50]
+DT[2021-09-11]AW[eb][gb][hb][bc][dc][gc][dd][fd][ee]AB[ib][ec][fc][hc][jc][bd][gd][hd][be][cf][ef][ff]
+(;B[bb]
+;W[ac]
+(;B[db]
+;W[cb]
+;B[fb]
+;W[da]C[Lost some points due to a bad exchange.])
+(;B[cb]
+;W[cc])
+(;B[fb]
+;W[fa]
+;B[db]
+;W[ed]
+;B[cc]C[+]))
+(;B[fb]
+;W[fa]
+(;B[db]
+;W[ed]
+;B[bb]
+;W[cb]C[Lost some points due to a bad exchange.])
+(;B[bb]
+;W[cb]C[Lost some points due to a bad exchange.]))
+(;B[db]
+;W[fb]
+;B[bb]
+;W[cb]C[Lost some points due to a bad exchange.]))

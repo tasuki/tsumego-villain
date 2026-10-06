@@ -1,0 +1,23 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[Weiß]PB[Schwarz]AW[bo][bp][cp][fp][dq][eq][fr]AB[co][dp][ep][cq][fq][cr]
+(;B[gq]
+;W[eo])
+(;B[dn]
+;W[cn]
+(;B[do]C[If the side is more important than the corner.]
+;W[gq]
+(;B[cm]C[+])
+(;B[bn]
+;W[cm]
+;B[bm]
+;W[dm]))
+(;B[gq]C[+If the corner is more important.]))
+(;B[er]
+;W[gq]
+;B[dr]
+;W[fq]
+(;B[dn]
+;W[bn])
+(;B[bq]
+;W[cn])))

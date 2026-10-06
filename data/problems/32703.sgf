@@ -1,0 +1,11 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+GN[��������� �����]GC[11 ��� ������. ]SO[����������.ru]AW[dd][qf][nj][ok][pk][ql][jm][lm][qm][kn][qn][do][ko][qo][dp][lp][mp][qp][dq][eq][gq][hq][iq][nq][qq][er]AB[pd][qh][oi][qj][qk][nl][pl][km][pm][cn][jn][ln][pn][po][cp][hp][ip][jp][pp][cq][fq][jq][lq][pq][cr][dr]LB[mk:A][kl:E][mm:B][gp:D][or:C]
+(;B[mk]LB[mk:A][kl:E][mm:B][gp:D][or:C]
+;W[kl]TR[kl][jm][lm][kn][ko][lp][mp][nq]SQ[hp][ip][jp][jq][lq]C[Helps only one group, hence Inefficient. Black's J4 group is in trouble.])
+(;B[mm]LB[mk:A][kl:E][mm:B][gp:D][or:C]
+;W[kl]C[This only helps White.])
+(;B[or]LB[mk:A][kl:E][mm:B][gp:D][or:C]C[Too passive.])
+(;B[gp]LB[mk:A][kl:E][mm:B][gp:D][or:C]
+;W[kl]SQ[nl][pl][pm][pn][po][pp][pq]C[Q6 group is in trouble. Black can be more efficient.])
+(;B[kl]LB[mk:A][kl:E][mm:B][gp:D][or:C]C[+ The only move.White's N3 group is not alive yet, M8 will help Q6 group to escape, when needed, and Black has time to save his H4 group.]))

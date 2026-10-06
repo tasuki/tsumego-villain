@@ -1,0 +1,8 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+GN[��������� �����]SO[����������.ru]AW[fc][kc][pc][qc][rc][dd][jd][rd][ce][je][se][cf][jf][rf][cg][ig][qg][ch][ih][mh][di][ii][qj][cn][lo][dp][kp][cq][kq][nq][cr][ir][jr][or]AB[hc][mc][oc][bd][od][pd][qd][he][ie][re][bf][mf][pf][bg][hg][bh][eh][hh][ci][hi][cj][cl][ql][ln][jo][ko][mo][jp][pp][fq][iq][pq][dr][hr]LB[cc:A][be:B][qe:E][dh:C][lp:D]G[tt]
+(;B[cc]LB[cc:A][be:B][qe:E][dh:C][lp:D]C[+ Black gains points and leaves White baseless to pressure later.])
+(;B[be]LB[cc:A][be:B][qe:E][dh:C][lp:D]C[Inefficient move, very slow.])
+(;B[dh]LB[cc:A][be:B][qe:E][dh:C][lp:D]C[Good idea, but wrong direction of play: White will stabilize with C17 first, and Black looses a chance to gain momentum by pressuring the opponent.])
+(;B[lp]LB[cc:A][be:B][qe:E][dh:C][lp:D]C[White can easily stabilise, there are more important points on the board.])
+(;B[qe]LB[cc:A][be:B][qe:E][dh:C][lp:D]C[Why saving S15 stone?]))

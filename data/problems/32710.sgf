@@ -1,0 +1,9 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+GN[��������� �����]SO[����������.ru]AW[nb][ec][gc][jc][nc][oc][cd][ed][gd][jd][nd][fe][oe][og][mj][ok][nm][co][po][np][dq]AB[ob][fc][hc][pc][fd][od][qd][ge][he][pf][pg][ph][ci][pj][pk][pm][qo][hp][kp][qp][pq]LB[fb:D][pb:B][ff:A][hh:E][cl:C]G[tt]
+(;B[ff]LB[fb:D][pb:B][ff:A][hh:E][cl:C]C[Black can sacrifice F17 stones more efficiently.])
+(;B[pb]LB[fb:D][pb:B][ff:A][hh:E][cl:C]C[It is not yose time yet.])
+(;B[cl]LB[fb:D][pb:B][ff:A][hh:E][cl:C]C[Big, but there are some usefull sente moves.])
+(;B[fb]LB[fb:D][pb:B][ff:A][hh:E][cl:C]C[Best move. Black unites his weak stones into one group by capturing two White stones, and highlights White's aji around the corner. ]
+;W[gb]LB[hb:C][hd:B][ff:A]C[+ Now all of the marked moves are sente moves. Efficient sacrifice, helping to strengthen weak H15 group.])
+(;B[hh]LB[fb:D][pb:B][ff:A][hh:E][cl:C]C[Too passive.]))

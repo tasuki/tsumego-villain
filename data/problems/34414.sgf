@@ -1,0 +1,10 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+AW[cc][dd][cf][pf][qf][qi][dn][dp][jp][mp]AB[db][fc][ic][nd][pd][qe][ok][qk][po][pq]TR[pf][qf][qi]
+(;B[oi]TE[2]
+;W[nf]LB[lf:A][og:B]
+;B[og]
+;W[of]LB[ld:A][lf:B]
+;B[ld]C[+Black secures territory while attacking.])
+(;B[nf]
+;W[oi]))

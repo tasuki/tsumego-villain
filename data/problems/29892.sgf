@@ -1,0 +1,26 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[Белые]PB[Черные]AB[pc][dd][qe]LB[hc:D][ic:C][jc:B][kc:A]
+(;W[jc]LB[gc:B][mc:A]C[+
+
+A and B are two-space-jump extention`s miai for building the base 
+
+])
+(;W[kc]LB[hc:B][nc:A]C[+
+
+A and B are two-space-jump extention`s miai for building the base 
+
+])
+(;W[ic]
+;B[kc]
+;W[fc]
+;B[ec]
+;W[fd]
+;B[df]LB[fc:A]C[
+
+A is good move, but your group is too narrow. You allowed your opponent to spread too widely
+])
+(;W[hc]
+;B[jc]TR[jc][pc][qe]C[
+You let your opponent spread too wide (by 5 points). What is your stone used for?
+]))

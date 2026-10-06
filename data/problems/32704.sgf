@@ -1,0 +1,8 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+GN[Волшебный набор]SO[гопроблемс.ru]AW[pb][kc][nc][dd][fd][cl][dp][jp][mp][fq]AB[qc][pd][cf][pf][cj][ej][pj][qo][hq][pq]LB[jd:E][el:C][pm:A][ho:D][no:B]G[tt]
+(;B[pm]LB[jd:E][el:C][pm:A][ho:D][no:B]C[Wrong direction of play. The game around weak stones is more important.])
+(;B[no]LB[jd:E][el:C][pm:A][ho:D][no:B]C[Big move that builds a large moyo, but White will also get many points on the left side.])
+(;B[el]LB[jd:E][el:C][pm:A][ho:D][no:B]C[Wrong direction of play: Black reduces White's moyo, but supporting H3 is more important.])
+(;B[ho]LB[jd:E][el:C][pm:A][ho:D][no:B]C[+ Black strengthens his stone, ruins White's territory, and prepares to attack White's two stones.])
+(;B[jd]LB[jd:E][el:C][pm:A][ho:D][no:B]C[Interesting yosu-miru (probing) move, but H5 is a more direct threat, resulting in a large Black moyo.]))

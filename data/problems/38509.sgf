@@ -1,0 +1,21 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[Белые]PB[Черные]AW[ab][db][eb][bc][cc][dc][ad][bd][dd]AB[ba][da][ea][bb][cb][ec][gc][ed][be][ce][de][ee]
+(;B[fb]C[+])
+(;B[fa]
+;W[fb]
+;B[gb]
+;W[fc]
+(;B[fd]TR[gd]C[+
+
+Its possible but you should see other solution by avoiding the extra cutting point])
+(;B[gd]
+;W[fd]
+(;B[fe]TR[ge]C[+
+
+Its possible but you should see other solution by avoiding the extra cutting point])
+(;B[ge]
+;W[fe]
+;B[ff]TR[ef][gf]C[+
+
+Its possible but you should see other solution by avoiding the extra cutting point]))))

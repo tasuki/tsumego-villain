@@ -1,0 +1,31 @@
+(;FF[4]GM[1]CA[UTF-8]AP[besogo:0.0.2-alpha]SZ[19]ST[2]
+RU[Japanese]KM[0.00]PW[white]PB[black]
+AB[ae][bc][be][cd][dc][ea][eb][ec]AW[af][bf][cb][ce][cf][dd][ed][fa][fb][fc]
+(;B[bb]
+;W[cc]
+(;B[bd]
+;W[ba]
+S[DEAD])
+(;B[ca]
+;W[bd]
+S[DEAD]))
+(;B[cc]
+;W[ab]
+(;B[ac]
+;W[bb]
+(;B[ca]
+;W[ba]
+;B[da]
+C[Gote.])
+(;B[ba]
+;W[ca]
+C[It is sente but with a loss of two points.]))
+(;B[bb]
+;W[ac]
+(;B[ca]
+;W[bd]
+C[Not the best way to live.])
+(;B[bd]
+;W[ba]
+C[+]
+S[SEKI+]))))

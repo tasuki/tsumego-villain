@@ -1,0 +1,13 @@
+(;FF[4]GM[1]CA[UTF-8]AP[besogo:0.0.2-alpha]SZ[19]ST[2]
+RU[Japanese]KM[0.00]GC[149 ��� �����.]
+AB[bc][cd][cg][ch][ci][cl][dc][fd][gd][id][lc][mq][nq][oq][pg][pi][pj][pk][pq][qf][qi][ql][qm][qr][rd][re][ri]AW[bd][ce][df][dh][ei][ep][fe][hf][iq][nc][np][og][ol][pe][pf][pl][pp][qd][qj][qk][qo][qq][rc][rl][rm][rq]LB[cp:A][hi:D][qg:C][rk:B][rr:E]
+(;W[cp]LB[cp:A][hi:D][qg:C][rk:B][rr:E]
+C[+The largest point on the board.])
+(;W[rk]LB[cp:A][hi:D][qg:C][rk:B][rr:E]
+C[Big, but not the biggest. R9 stones are not important ones.])
+(;W[qg]LB[cp:A][hi:D][qg:C][rk:B][rr:E]
+C[Small.])
+(;W[hi]LB[cp:A][hi:D][qg:C][rk:B][rr:E]
+C[Small. White also does not need to worry about D14 group.])
+(;W[rr]LB[cp:A][hi:D][qg:C][rk:B][rr:E]
+C[Small.]))

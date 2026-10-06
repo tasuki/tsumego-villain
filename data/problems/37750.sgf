@@ -1,0 +1,8 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+AW[bb][cb][db][dc][fc][ed][dh][qj][cl][dq][eq][gq][jq][cr]AB[bc][cc][ec][ad][dd][pd][be][ce][de][df][co][fo][dp][qp][bq][cq][oq]LB[fe:A][bg:B][ho:C]
+(;W[bg]C[+This move threatens the eye shape of the black stones above, so if Black invades on the left side, the fighting could spill over the top and the black stones there could get into trouble. For that reason, this is a good move because it reinforces her thin stones on the left.]TE[2])
+(;W[ho]
+;B[ci])
+(;W[fe]
+;B[cj]))

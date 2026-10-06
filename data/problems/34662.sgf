@@ -1,0 +1,16 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+AW[pb][jc][nc][oc][ld][md][rd][pe][qe][re][cf][qg][ch][ci][oi][pi][qi][rk]AB[qb][hc][pc][rc][cd][dd][nd][od][pd][qd][he][me][df][nf][pg][dh][ni][nj][oj][pj][dp][pp]
+(;B[lb]TE[2]
+(;W[mb]LB[jb:A][kc:B]
+;B[kc]
+;W[kd]
+;B[jb]C[+])
+(;W[kb]LB[nb:B][mc:A]
+;B[nb]
+;W[mb]LB[ma:A][ob:B]
+;B[ob]
+;W[mc]LB[ma:B][ib:A]
+;B[ib]C[+]))
+(;B[ib]
+;W[jb]C[White lives in gote.]))

@@ -1,0 +1,24 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+GN[ ]PW[ ]PB[ ]AW[jp][kp][lp][iq][mq][nq][jr][lr][mr][ms]AB[mp][np][op][kq][lq][pq][kr][nr][or][ks]FG[259:]PM[1]
+(;B[ns]
+(;W[jq]
+;B[oq]
+;W[js]
+;B[ls]C[+])
+(;W[js]
+;B[oq]
+;W[jq]
+;B[ls]C[+]))
+(;B[ls]
+;W[js]C[Common points should be taken last
+])
+(;B[oq]
+(;W[jq]
+;B[ns]
+;W[js]
+;B[ls]C[+])
+(;W[js]
+;B[ns]
+;W[jq]
+;B[ls]C[+])))

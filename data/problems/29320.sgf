@@ -1,0 +1,17 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[13]KM[0.00]
+GN[ ]PW[ ]PB[ ]AW[dc][id][dj]AB[jd][kj][ik]FG[259:]PM[1]
+(;B[ic]LB[jc:C][ie:A][je:B]C[+
+
+Close response after touch is the right style. Options A, B or C are also possible.])
+(;B[ce]
+;W[je]C[Skipping the touch is bad style])
+(;B[ie]LB[ic:C][jc:B][je:A]C[+
+
+Close response after touch is the right style. Options A, B or C are also possible.])
+(;B[jc]LB[ic:A][ie:B][je:C]C[+
+
+Close response after touch is the right style. Options A, B or C are also possible.])
+(;B[je]LB[ic:B][jc:A][ie:C]C[+
+
+Close response after touch is the right style. Options A, B or C are also possible.]))

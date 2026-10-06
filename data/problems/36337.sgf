@@ -1,0 +1,20 @@
+(;FF[4]GM[1]CA[UTF-8]AP[besogo:0.0.2-alpha]SZ[19]ST[2]
+RU[Japanese]KM[0.00]PW[White]PB[Black]
+AB[ad][be][cb][cc][cd]AW[bf][bh][ca][cf][db][dc][dd][de][fb]CR[ce]MA[ca]
+G[LIVE]
+;B[ba]
+;W[ab]
+(;B[bb]
+;W[af]
+;B[ac]TR[ac][ad][be]MA[bd]
+C[The extra liberty prevents the throw-in at X and your opponent cannot capture the marked stones to kill.]
+S[ALIVE])
+(;B[bc]
+S[ALIVE])
+(;B[ac]
+S[ALIVE])
+(;B[ce]
+;W[bc]
+;B[bb]
+;W[ac]
+S[SEKI]))

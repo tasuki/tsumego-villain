@@ -1,0 +1,21 @@
+(;FF[4]GM[1]CA[UTF-8]AP[besogo:0.0.2-alpha]SZ[19]ST[2]
+RU[Japanese]KM[0.00]GC[150 ��� �����.]
+AB[bh][bi][cf][cg][cj][cm][dg][ec][fc][gc][gd][ge][hd][hf][ie][if][kd][kf][ne][pd][pk][po][pq][qk][re]AW[ch][dc][dd][df][dh][dp][ef][eg][ei][fd][fe][fh][gf][gg][hc][hg][ib][id][jc][jd][jp][mc][mp][qf][qi]LB[oi:B][pb:A][qe:D][rf:C][rj:E]
+(;W[pb]LB[oi:B][pb:A][qe:D][rf:C][rj:E]
+;B[rf]
+C[White is in trouble.])
+(;W[oi]LB[oi:B][pb:A][qe:D][rf:C][rj:E]
+;B[ph]TR[rf]
+C[White does not have solid base, hence Black will be able to attack R11 stones efficiently.])
+(;W[rf]LB[oi:B][pb:A][qe:D][rf:C][rj:E]
+;B[qe]
+C[Right idea, but not efficient enough.])
+(;W[qe]LB[oi:B][pb:A][qe:D][rf:C][rj:E]
+;B[qd]LB[rf:A]
+;W[rf]
+;B[rd]LB[oi:A]
+;W[oi]
+C[+White builds good shape. Compare with the C option.])
+(;W[rj]LB[oi:B][pb:A][qe:D][rf:C][rj:E]
+;B[rf]
+C[White group is in big trouble.]))

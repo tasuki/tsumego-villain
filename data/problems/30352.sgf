@@ -1,0 +1,15 @@
+(;FF[4]GM[1]CA[UTF-8]AP[besogo:0.0.2-alpha]SZ[19]ST[2]
+RU[Japanese]KM[6.50]
+AB[dd][df][ec][kc][ke]AW[fc][fd][ic]
+(;B[ie]LB[eb:B][fb:C][ff:A]
+C[+
+
+These options are possible too])
+(;B[eb]LB[fb:C][ff:B][ie:A]
+C[+These options are possible too])
+(;B[ff]LB[eb:B][fb:C][ie:A]
+C[+These options are possible too])
+(;B[fb]
+;W[gb]
+;B[eb]LB[eb:C][ff:A][ie:B]
+C[+These options are possible too]))

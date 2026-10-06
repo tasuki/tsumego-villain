@@ -1,0 +1,12 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+AW[nb][fc][nc][pc][qc][rc][dd][ce][ch][cl][ql][bn][co][dp][fp][iq]AB[lc][nd][od][pd][qd][rd][cj][qj][bl][dl][bm][cn][dn][op][qp][kq]TR[ql]
+(;B[ok]TE[2]
+;W[qo]LB[po:A][ro:B]
+;B[po]
+;W[qn]LB[ro:A][rp:B]
+;B[rp]
+;W[om]LB[ml:A][mm:B]
+;B[ml]C[+Black takes profit on both sides.])
+(;B[qn]
+;W[ol]))

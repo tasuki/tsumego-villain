@@ -1,0 +1,18 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[13]KM[6.50]
+AW[ci][bj][cj][dj][ek][fk][cl][el][gl][hl]AB[di][ei][ej][fj][dk][gk][hk][ik][dl][il]
+(;B[hm]
+;W[fm])
+(;B[fm]
+(;W[fl]
+;B[hm]
+;W[ck]
+;B[gm]
+;W[dm]C[+])
+(;W[dm]
+;B[fl]
+;W[ck]
+(;B[hm]C[+])
+(;B[gm]LB[hm:A]C[+
+
+Capturing at A is better]))))

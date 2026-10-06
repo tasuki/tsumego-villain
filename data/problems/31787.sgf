@@ -1,0 +1,10 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[6.50]
+AW[hc][kc][oc][ce][ch][cj][cm][qo][pp][mq]AB[dc][ed][qd][cf][df][qg][pk][cq][fq]LB[pc:D][bf:A][qm:C][kq:B]
+(;B[bf]C[+])
+(;B[qm]
+;W[bf]C[There's still an invasion left behind. So it's not much.])
+(;B[kq]
+;W[bf]C[Nice approach. But there is a difference between urgent and big])
+(;B[pc]
+;W[bf]TR[od]SQ[dc][ed][cf][df]C[Triangle marked point so big. But after exchange in the corner big territory is lost too and than square marked group may be left without a base]))

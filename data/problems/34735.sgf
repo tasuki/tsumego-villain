@@ -1,0 +1,12 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+AW[pb][nc][qc][dd][cj][fj][lj][ek][kk][cl][fl][jl][kl][fm][im][cn][dn][hn][in][dp][ip][eq]AB[lc][pd][le][pf][ki][ij][kj][jk][pk][el][hl][il][em][gm][hm][en][fn][gn][fp][mp][fq][pq]TR[lj][kk][jl][kl][im][hn][in][ip]
+(;B[kn]TE[2]
+;W[km]LB[jn:A][mn:B]
+;B[mn]
+;W[ml]LB[li:A][jn:B]
+;B[li]
+;W[mj]LB[mi:A][nk:B]
+;B[nk]C[+])
+(;B[lk]
+;W[kn]))

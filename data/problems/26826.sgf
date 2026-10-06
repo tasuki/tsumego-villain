@@ -1,0 +1,32 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[6.50]
+DT[2021-09-11]AW[ka][ab][bb][fb][gb][ib][kb][cc][dc][gc][jc][ed][fd][id][jd][ge][he][ie]AB[cb][hb][lb][bc][fc][hc][kc][mc][bd][cd][gd][hd][kd][de][ee][fe][je][gf][hf][if]
+(;B[eb]
+;W[db]
+(;B[ia]
+;W[ga]
+(;B[la]C[+])
+(;B[ha]
+;W[ec]
+;B[la]C[+]))
+(;B[ga]
+;W[ec]
+;B[ia]
+;W[jb]C[Gote seki]))
+(;B[ia]
+;W[ja]
+(;B[ga]
+;W[fa]
+;B[eb]
+;W[ec]
+;B[db]
+;W[ha]C[Lost some points due to a bad exchange.])
+(;B[eb]
+;W[ec]
+;B[db]C[+]))
+(;B[ga]
+;W[ic]
+;B[eb]
+;W[ec]
+;B[db]
+;W[ba]))

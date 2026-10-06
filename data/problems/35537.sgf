@@ -1,0 +1,20 @@
+(;FF[4]GM[1]CA[UTF-8]AP[besogo:0.0.2-alpha]SZ[19]ST[2]
+RU[Japanese]KM[0.00]PW[Blanc]PB[Noir]
+AB[ae][bd][cb][cc][cd][da]AW[be][bf][cf][db][df][eb][ec][ed][ee]LB[bb:no][gb:yes]
+C[Does the proverb takes into consideration the existence of both hane ?]
+(;B[gb]
+C[+The L Group is dead, even with both hane])
+(;B[bb]
+;W[ac]
+(;B[ad]
+;W[ca]
+(;B[ab]
+;W[ba]
+;B[aa]
+;W[ca])
+(;B[ba]
+;W[ab]))
+(;B[ab]
+;W[ad]
+;B[bc]
+;W[ad])))

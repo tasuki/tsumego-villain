@@ -1,0 +1,27 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[6.50]
+AW[jc][nc][qc][bd][cd][pd][cg][cj][bm][bn][bo][jo][cp][fp][mp][pp][qp][cq][jq][oq][cr][dr]AB[dc][gc][dd][rd][qf][qj][bl][cl][cm][cn][fn][co][ho][no][po][qo][dp][dq][eq][hq][er]LB[bb:C][lc:B][of:A]
+(;B[of]LB[of:1]C[+
+
+You should build a framework by playing at 1.])
+(;B[bb]
+;W[qh]C[Wrong direction])
+(;B[lc]
+;W[pf]
+(;B[qg]
+;W[kd]C[Unreasonable])
+(;B[pg]
+;W[of]LB[kd:B][qg:A]C[unreasonable]
+(;B[qg]C[Unreasonable]
+;W[kd])
+(;B[kd]
+;W[jd]LB[je:A][kf:B]
+(;B[je]
+;W[hd]LB[gc:1][je:2][pg:3]C[You have three weak groups. This is a success])
+(;B[kf]
+;W[je]LB[ke:A][mf:B]
+(;B[ke]
+;W[cb]LB[dc:1][kf:2][qf:3]C[You have three weak groups. This is a success])
+(;B[mf]
+;W[cb]LB[lb:C][dc:1][ld:A][md:B][kf:2][qf:3]C[You have three weak groups. This is a success
+Connection is extra option]))))))

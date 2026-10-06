@@ -1,0 +1,13 @@
+(;FF[4]GM[1]CA[UTF-8]AP[besogo:0.0.2-alpha]SZ[19]ST[2]
+RU[Japanese]KM[0.00]GN[��������� �����]GC[91 ��� ������.]SO[����������.ru]
+AB[ci][cp][dn][jc][od][pj][qd]AW[cd][cg][ec][eq][hp][nq][qp]LB[dq:E][ei:B][fc:A][jq:D][qn:C]
+(;B[ei]LB[dq:E][ei:B][fc:A][jq:D][qn:C]
+C[Not the largest point on the board.])
+(;B[qn]TR[nq][qp]LB[dq:E][ei:B][fc:A][jq:D][qn:C]
+C[+Perfect extension for Black, which controls White's corner as well.])
+(;B[jq]LB[dq:E][ei:B][fc:A][jq:D][qn:C]
+C[There is nothing to attack, nor there is a need to invade. There are bigger points on the board.])
+(;B[dq]LB[dq:E][ei:B][fc:A][jq:D][qn:C]
+C[Small and passive.])
+(;B[fc]
+C[+Strengthens K17 stone and build some territory by attaching to an already strong group. Indirectly makes N17 invasion by White less efficient.]))

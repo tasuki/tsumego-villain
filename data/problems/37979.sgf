@@ -1,0 +1,17 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[6.50]
+PW[Белые]PB[Черные]AW[ab][bb][cb][db][bd][ed][ae][ce][de][bg][cg]AB[ba][ca][da][eb][cc][dc][ec][gc][cd][be][bf]
+(;B[bc]
+;W[ac]
+(;B[ea]
+;W[cf]
+;B[aa]
+;W[af]C[Wasteful])
+(;B[ad]C[Ko is unnecessary])
+(;B[af]C[+]))
+(;B[af]
+;W[bc])
+(;B[ad]
+;W[bc])
+(;B[ea]
+;W[bc]))

@@ -1,0 +1,25 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[6.50]
+PW[Белые]PB[Черные]AW[bb][bc][dc][fc][bd][dd][ce][cf]AB[ba][cb][db][cc][cd][be][de][df][ff][dg]
+(;B[bf]
+;W[cg]
+;B[ch]
+;W[bg]
+(;B[ag]
+;W[bh]
+;B[bi]
+;W[ae]
+;B[ah]C[+])
+(;B[bh]
+;W[ag]
+;B[ah]
+(;W[af]
+;B[ae]C[+])
+(;W[ae]
+;B[af]C[+])))
+(;B[eb]
+;W[bf]TR[bb][bc][bd][ce][bf][cf])
+(;B[ab]
+;W[bf]CR[cb][db][cc][cd]TR[bb][bc][bd][ce][bf][cf]C[Circl-marked stones are in great danger because you didn't catch the triangle-marked stones easy])
+(;B[cg]
+;W[bf]CR[cb][db][cc][cd]TR[bb][bc][bd][ce][bf][cf]C[Circl-marked stones are in great danger because you didn't catch the triangle-marked stones easy]))

@@ -1,0 +1,11 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[6.50]
+PW[Белые]PB[Черные]AW[da][cb][eb][bc][cc][fc][fe][df][ef][bg]AB[ba][bb][db][dc][cd][be][de]
+(;B[ca]
+(;W[ea]
+(;B[bd]C[+])
+(;B[ac]C[+]))
+(;W[ab]
+;B[ea]C[+]))
+(;B[ac]
+;W[ca]SQ[ba][bb][db][ac][dc][cd][be][de]C[The marked stones are dead]))

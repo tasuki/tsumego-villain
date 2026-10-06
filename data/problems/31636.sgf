@@ -1,0 +1,17 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[13]KM[6.50]
+AW[gb][gc][ic][fd]AB[fc][hc][gd][kd]LB[gb:5][fc:2][gc:1][hc:4][fd:3]TR[ic][gd][kd]
+(;B[ge]
+(;W[ec]
+;B[hb]
+;W[fb]
+(;B[id]C[+])
+(;B[hd]LB[id:A]TR[hd]C[The marked stone at A is better]))
+(;W[hb]
+;B[ed]C[+]))
+(;B[hd]
+;W[hb])
+(;B[hb]
+;W[hd]
+;B[ge]
+;W[ib]))

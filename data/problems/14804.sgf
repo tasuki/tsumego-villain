@@ -1,0 +1,7 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[Weiß]PB[Schwarz]AW[ep][cq][eq][br][dr][fr]AB[eo][cp][fp][bq][fq][gr]
+;B[dp]
+;W[dq]
+(;B[fo]C[+1 is an agggressive bump against the opponent's stone. After the opponent defends with 2, you can make thickness with 3. You can now even sacrifice a stone on the side.])
+(;B[fn]C[+1 is an agggressive bump against the opponent's stone. After the opponent defends with 2, you can make thickness with 3. You can now even sacrifice a stone on the side.]))

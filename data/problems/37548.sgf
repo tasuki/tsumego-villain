@@ -1,0 +1,14 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+AW[cb][eb][dc][kc][oc][fd][di][cj][cn][qn][co][dp][rp][cq][nq][pq][qq][rq][cr]AB[cc][cd][qd][de][pe][ch][pi][cl][el][pl][bn][qo][ro][op][pp][qp][fq][iq][dr]LB[ff:A][fi:B][fj:C]TR[di][cj]
+(;B[fj]TE[2]
+;W[dh]LB[cg:A][fh:B]
+;B[cg]
+;W[fh]LB[ff:A][hi:B]
+;B[hi]
+;W[ff]LB[eg:A][fn:B]
+;B[fn]C[+Black makes a moyo at the bottom.])
+(;B[ff]
+;W[dh]CR[cg]
+;B[cg]
+;W[gi]))

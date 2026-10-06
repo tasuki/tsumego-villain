@@ -1,0 +1,17 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[6.50]
+AW[rl][mm][nm][om][pm][rm][mn][qn][rn][lo][qo][qp][mq][oq][pq][nr][or]AB[qk][rk][ql][qm][ln][nn][on][pn][mo][po][jp][np][op][pp][rp][nq][qq][qr]
+(;B[lp]
+;W[mp]
+;B[ko]
+;W[no])
+(;B[mp]
+;W[lp]
+;B[lq]
+;W[mr]
+(;B[ko]C[+])
+(;B[kp]
+;W[ko]
+;B[kn]
+;W[jo]
+;B[io]C[Ladder is extra risk])))

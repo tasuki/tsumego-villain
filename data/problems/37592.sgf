@@ -1,0 +1,16 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+CR[cn]AW[pa][qa][hb][jb][kb][mb][pb][dc][kc][lc][mc][oc][pc][dd][kd][od][qd][rd][oe][df][bg][ch][qh][qi][ri][hj][pj][qj][gk][hk][nk][qk][ql][rl][dm][qm][sm][cn][rn][sn][co][ho][dp][hp][rp][dq][gq][jq][cr]AB[ra][ib][nb][qb][fc][ic][jc][qc][rc][jd][ld][md][pd][fe][je][ke][ne][pe][qe][re][nf][rf][sg][bh][ph][rh][gi][pi][cj][gj][oj][ok][pk][ol][cm][hm][dn][fn][qn][qo][ro][so][fp][gp][qp][eq][oq][dr]LB[cl:B][dl:C][bm:A][em:D]
+(;B[dl]TE[2]
+;W[em]LB[fm:A][en:B]
+;B[fm]
+;W[el]LB[cl:A][fl:B]
+;B[fl]
+;W[ek]LB[fk:B][cl:A]
+;B[fk]
+;W[ej]CR[jm]
+;B[jm]C[+Black claims a huge territory in the center and the left side still has aji.])
+(;B[em]
+;W[dl]LB[fk:C][cl:A][el:B]
+;B[fk]
+;W[cl]C[+]))

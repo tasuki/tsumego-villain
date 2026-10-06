@@ -1,0 +1,24 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[Белые]PB[Черные]AW[cb][db][cc][fc][gc][cd][ed][de][ee][eg]AB[eb][hb][bc][dc][ec][hc][bd][dd][gd][hd][ce][cf]
+(;B[fb]
+(;W[gb]
+(;B[ga]
+;W[fd]C[Not enough])
+(;B[fd]
+;W[ga]
+;B[ha]
+;W[fa]
+;B[ea]C[+]))
+(;W[fd]
+(;B[gb]C[+])
+(;B[bb]
+;W[gb]
+(;B[ca]
+;W[fa]SQ[hb][hc][gd][hd]C[Not enough. Square-marked stones are separated])
+(;B[ga]
+;W[ea]C[Disaster])
+(;B[da]
+;W[fa]SQ[hb][hc][gd][hd]C[Not enough. Square-marked stones are separated]))))
+(;B[bb]
+;W[fb]C[Disaster]))

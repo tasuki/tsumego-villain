@@ -1,0 +1,34 @@
+(;FF[4]GM[1]CA[UTF-8]AP[besogo:0.0.2-alpha]SZ[19]ST[2]
+RU[Japanese]KM[0.00]PW[White]PB[Black]
+AB[pa][qb][qc][qd][re][sd]AW[nb][ob][pb][pc][pd][pe][qe][qg][rf][rh]CR[pa]LB[lf:no][of:yes]
+(;W[lf]CR[pa]MA[rb][sc]
+C[+True. The hane is like a shield for this J group, allowing us to use the X vital points.])
+(;W[of]
+;B[]
+C[Then go for the kill]
+(;W[qa]
+;B[rb]
+(;W[sf]
+;B[sc]MA[rb][sc]
+C[Alive])
+(;W[ra]
+;B[sa]
+C[Alive])
+(;W[sb]
+;B[sc]MA[rb][sc]
+C[Alive])
+(;W[rc]
+;B[ra])
+(;W[sc]
+;B[sb]))
+(;W[sb]
+;B[rb]
+(;W[sc]
+;B[rc]
+C[Alive])
+(;W[ra]
+;B[sc]MA[rb][sc]
+C[Alive])
+(;W[sf]
+;B[sc]MA[rb][sc]
+C[Alive]))))

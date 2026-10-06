@@ -1,0 +1,18 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[Белые]PB[Черные]AW[ib][ic][jd][ge][he][ie][hf][hg][ih][kh]AB[jb][ec][gc][jc][ed][hd][kd][ke][if][jf]
+;B[id]
+;W[je]LB[lc:B][lf:A]
+(;B[lc]
+;W[gd]
+;B[hc]LB[kf:A][lf:B]TR[if][jf]C[+
+
+The marked stones are useless. You should sacrifice by A-B exchange])
+(;B[lf]
+;W[kc]
+(;B[lc]
+;W[kb]C[Disaster])
+(;B[kb]
+;W[lc]
+;B[lb]
+;W[mc]SQ[kd][ke][if][jf][lf]C[The marked stone are separated])))

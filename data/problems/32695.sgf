@@ -1,0 +1,12 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+GN[��������� �����]GC[10 ��� �����. ]SO[����������.ru]AW[dd][pf][og][qg][ph][qh][oi][ql][op][qp][dq]AB[fc][od][qd][nf][ng][nh][oh][pi][cj][qj][co]LB[jc:C][kc:D][oj:B][pj:A][rj:E]
+(;W[pj]LB[jc:C][kc:D][oj:B][pj:A][rj:E]
+;B[qi]LB[pk:A]
+;W[pk]C[+ White solves his problems by capturing Black's stones.])
+(;W[oj]LB[jc:C][kc:D][oj:B][pj:A][rj:E]
+;B[pk]C[Too meek. Black will be happy to make use of his weak stones.])
+(;W[jc]LB[jc:C][kc:D][oj:B][pj:A][rj:E]C[Not relevant, Black can tenuki.])
+(;W[kc]LB[jc:C][kc:D][oj:B][pj:A][rj:E]C[Not relevant, Black can tenuki.])
+(;W[rj]LB[jc:C][kc:D][oj:B][pj:A][rj:E]
+;B[oj]C[Wrong tactic: Black captures P11 in a ladder, gaining strong influence in the center. ]))

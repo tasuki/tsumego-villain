@@ -1,0 +1,25 @@
+(;FF[4]GM[1]CA[UTF-8]AP[besogo:0.0.2-alpha]SZ[19]ST[2]
+RU[Japanese]KM[0.00]PW[White]PB[Black]
+AB[qb][qc][qd][rd]AW[nb][pb][pc][pd][pe][qe][re][rg]
+(;B[ra]
+;W[sb]
+;B[sd]
+;W[pa]
+;B[qa]
+;W[]LB[md:5][me:6][mf:7][mg:8]
+C[Well done! How many liberties does your dead L group have now?]
+;B[mg]LB[sb:X][se:Y]
+C[+8 liberties : A 5 Big eye retaining 8 libs, plus one external lib, minus one internal lib.])
+(;B[qa]
+;W[rb]
+(;B[sd]
+;W[sc]LB[ra:X]
+C[Your opponent need 7 more moves to capture but you could have done better. The X point provides some 2-1 point magic to your opponent.])
+(;B[sc]
+;W[sb]LB[ra:X]
+C[The X point provides some 2-1 point magic to your opponent. At best you gave yourself 5 libs which is bad.]))
+(;B[sd]
+;W[ra]
+;B[qa]
+;W[rb]LB[sa:O]
+C[The control of the 1-1 point gives your opponent great power. At best you gave yourself 4 libs which is bad.]))

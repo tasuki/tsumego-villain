@@ -1,0 +1,8 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+GN[��������� �����]SO[����������.ru]AW[pc][rc][od][qd][sd][ne][oe][re][lf][mf][pf][pg][ni][oi][ri][nj][pj][qj][sj][rk][ql][dp][pp]AB[nc][dd][nd][ke][le][me][pe][qe][nf][of][rf][mg][lh][nh][oh][ph][qh][mi][qi][dj][oj][pk][qk]LB[cc:A][fc:B][mj:E][cl:C][jp:D]G[tt]
+(;W[cc]LB[cc:A][fc:B][mj:E][cl:C][jp:D]C[Big move, but it only helps Black to finish his large moyo - at this point, not the best choice.])
+(;W[fc]LB[cc:A][fc:B][mj:E][cl:C][jp:D]C[+ White should invade Black's moyo while this is still possible.])
+(;W[cl]LB[cc:A][fc:B][mj:E][cl:C][jp:D]C[Big, but not urgent. Look at the upper side...])
+(;W[jp]LB[cc:A][fc:B][mj:E][cl:C][jp:D]C[Big, but not urgent. Look at the upper side - it is larger than White's moyo.])
+(;W[mj]LB[cc:A][fc:B][mj:E][cl:C][jp:D]C[Empty move.]))

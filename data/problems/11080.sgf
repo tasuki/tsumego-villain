@@ -1,0 +1,21 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[6.50]
+GN[Killing groups]PW[Choi Wonyong]PB[Kim Seungjun]WR[5d]BR[9d]DT[2007-07-22]CR[jm]AW[nb][ob][pb][fc][nc][pc][bd][dd][md][od][pd][qd][pe][qf][ji][ki][gj][hj][ij][kj][fk][gk][lk][mk][bl][gl][hl][il][jl][jm][lm][qm][cn][fn][mn][rn][co][fo][ho][qo][dp][qp][dq][eq][iq][jq][qq][fr][gr][hr][pr][qr]AB[lc][mc][jd][nd][ne][oe][qe][re][cf][ef][pf][kg][pg][fi][gi][hi][ii][fj][lj][mj][nj][pj][ek][ik][jk][fl][dm][fm][gm][im][mm][nm][in][pn][qn][do][eo][po][ep][fp][ip][jp][kp][pp][fq][gq][hq][nq][pq][or]C[Takemiya Masaki 9p vs Ma Xiaochun 9p]RE[W+Resign]
+(;B[km]
+;W[kn]
+;B[ll]
+;W[kl]
+;B[ml]C[+])
+(;B[kn]
+;W[km]
+;B[ml]
+;W[ll]
+;B[kk]
+;W[jj])
+(;B[kl]
+;W[km])
+(;B[ll]
+;W[ml]
+;B[km]
+;W[kl]
+;B[kn]C[+]))

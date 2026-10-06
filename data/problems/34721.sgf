@@ -1,0 +1,20 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+AW[cc][oc][pl][nm][np][qp][eq][pq]AB[pc][ld][od][qd][on][po][qo][cp]TR[nm]
+(;B[mo]TE[2]
+(;W[mp]LB[nn:A][lo:B]
+;B[lo]
+;W[lp]LB[pi:A][nk:B][ko:C]
+;B[ko]
+;W[jq]LB[pi:A][nk:B]
+;B[pi]C[+])
+(;W[no]
+;B[nn]
+;W[mn]LB[mm:A][om:B]
+;B[om]C[+]))
+(;B[nn]
+;W[mm]CR[mn]
+;B[mn]
+;W[lm]CR[ln]
+;B[ln]
+;W[lp]C[Pushing from behind is bad style.]))

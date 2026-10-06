@@ -1,0 +1,14 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[Белые]PB[Черные]AW[ab][bb][cb][dc][ec][ed][ce][de][ee][bf]AB[ca][db][eb][fb][bc][cc][gc][ic][ad][cd][dd][be]
+(;B[ba]
+;W[af]
+(;B[ae]C[+])
+(;B[ac]
+;W[ae]
+;B[aa]TR[be]C[Lets save the marked stone. Try the another sequence]))
+(;B[ac]
+;W[af]
+;B[ba]
+;W[ae]
+;B[aa]C[Lets save the marked stone Try the another sequence]))

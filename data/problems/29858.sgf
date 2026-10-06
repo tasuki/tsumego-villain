@@ -1,0 +1,25 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[13]KM[0.00]
+PW[Белые]PB[Черные]AW[hi][dj][ej][gj][ck][hk][ik][jk][cl][fl][jl][cm][em][gm][hm][jm]AB[ek][fk][gk][dl][gl][hl][il][dm][im]
+(;B[el]
+;W[fj]
+;B[fm]C[+])
+(;B[fm]
+;W[gm]
+(;B[el]
+;W[fm]SQ[ek][fk][gk][dl][el][gl][hl][il][dm][im])
+(;B[hm]
+;W[fm]SQ[ek][fk][gk][dl][gl][hl][il][dm][hm][im]C[You happy from catching of two stones. Opponent happies from catching of all marked stones
+]))
+(;B[fj]
+;W[fi]
+;B[fm]
+;W[gm]
+(;B[el]
+;W[fm]
+;B[hm]
+;W[fm])
+(;B[hm]
+;W[fm]
+;B[el]
+;W[fm])))

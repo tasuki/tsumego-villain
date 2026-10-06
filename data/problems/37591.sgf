@@ -1,0 +1,14 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+CR[hj]AW[pa][qa][hb][jb][kb][mb][pb][dc][kc][lc][mc][oc][pc][dd][kd][od][qd][rd][oe][df][bg][ch][qh][qi][ri][hj][pj][qj][nk][qk][ql][rl][qm][sm][rn][sn][co][dp][rp][gq][jq]AB[ra][ib][nb][qb][fc][ic][jc][qc][rc][jd][ld][md][pd][fe][je][ke][ne][pe][qe][re][nf][rf][sg][bh][ph][rh][gi][pi][cj][oj][ok][pk][ol][cm][qn][qo][ro][so][qp][oq]LB[hi:A][gj:B]
+;B[gj]TE[2]
+;W[hk]LB[gk:A][fl:B][ip:D][eq:C]
+(;B[ip]
+;W[iq]LB[gp:A][hp:B]
+;B[gp]
+;W[hp]
+;B[ho]
+;W[hq]CR[fl]
+;B[fl]C[+White's stones in the center are in trouble.])
+(;B[eq]
+;W[ep]))

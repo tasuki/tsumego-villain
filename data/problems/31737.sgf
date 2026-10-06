@@ -1,0 +1,17 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[6.50]
+AW[lq][oq][qq][lr]AB[jo][lo][jq][mr]LB[lr:2][mr:1]
+;B[mq]
+;W[mp]
+;B[lp]
+;W[nq]
+(;B[mo]
+;W[np]
+(;B[kq]C[+])
+(;B[kr]C[+]))
+(;B[np]
+;W[mo]
+;B[mn]
+;W[no]
+;B[nn]
+;W[oo]TR[ln]SQ[mn][nn]C[Good job. But the weakness remained. Although getting additional stones can be useful sometimes]))

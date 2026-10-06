@@ -1,0 +1,9 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+CR[qm]AW[bb][cb][db][dc][fc][nc][ed][dh][qj][cl][qm][dq][eq][gq][jq][cr]AB[bc][cc][ec][ad][dd][pd][be][ce][de][df][qf][co][fo][dp][qp][bq][cq][oq]LB[lc:A][cj:B][lq:C]
+(;B[cj]TE[2]
+;W[dj]C[+On the left side, Black is strong above and below, while White's two stones are thin. Therefore, Black should invade. ])
+(;B[lc]
+;W[pc])
+(;B[lq]
+;W[dn]))

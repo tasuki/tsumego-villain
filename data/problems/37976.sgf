@@ -1,0 +1,24 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[6.50]
+PW[Белые]PB[Черные]AW[eb][bc][dc][ec][fc][bd][cd][dd][gd][fe]AB[ea][bb][cb][db][fb][cc][hc][hd][he][bf][cf][ef][ff]
+(;B[gb]
+;W[ab]
+(;B[fa]TR[ba][da]C[+
+
+Its not good. Ko threats])
+(;B[da]C[+])
+(;B[ba]TR[da][fa]C[+
+
+Its not good. Ko threats])
+(;B[gc]
+;W[da]
+;B[ca]
+;W[ba]))
+(;B[gc]
+;W[gb]
+(;B[ga]
+;W[fa])
+(;B[fa]
+;W[da]
+;B[ca]
+;W[ga])))

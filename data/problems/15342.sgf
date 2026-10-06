@@ -1,0 +1,26 @@
+(;FF[4]GM[1]CA[UTF-8]AP[besogo:0.0.2-alpha]SZ[19]ST[2]
+RU[Japanese]KM[0.00]PW[Weiss]PB[Schwarz]
+AB[cc][cd][ce][dc][de]AW[be][bf][cf][dd][df][ed][ee][ef]
+(;B[fc]
+;W[ec]
+;B[eb]
+;W[db])
+(;B[fb]
+C[+])
+(;B[ec]
+;W[gc]
+(;B[fc]
+;W[gb]
+C[bad shape, but the best we can do after direct extension])
+(;B[gb]
+;W[fb]
+;B[fc]
+;W[hb]
+(;B[gd]
+;W[hc]
+;B[eb]
+;W[ga]
+;B[fd]
+C[wrong (direct extension was bad shape to begin with)])
+(;B[eb]
+;W[ga]))))

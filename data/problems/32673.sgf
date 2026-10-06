@@ -1,0 +1,26 @@
+(;FF[4]GM[1]CA[UTF-8]AP[besogo:0.0.2-alpha]SZ[19]ST[2]
+RU[Japanese]KM[0.00]GC[136 ��� ������.]
+AB[al][bm][cf][ci][cl][cm][df][dr][fq][gp][hn][ho][hq][hr][in][jm][ko][kp][kq][lc][lq][ng][oi][oj][om][on][oo][op][oq][pd][pi][pn][pr][qf][qg][qh][qo][qp][ro][rq][rs][sr]AW[bj][bk][bl][ce][ck][dd][dk][dn][dp][fd][hp][io][ip][iq][ir][jc][jn][jo][kn][ll][ln][lo][lp][nl][np][nq][ok][ol][or][pg][ph][pj][pm][po][pp][pq][qi][qj][qk][qm][qn][qq][rl][rm][rr]LB[co:C][cp:E][cq:D][el:A][em:B]
+(;B[el]LB[co:C][cp:E][cq:D][el:A][em:B]
+;W[dl]LB[dm:A]
+;B[dm]
+;W[em]LB[co:A]
+;B[co]
+;W[fm]SQ[el]
+C[The cut is not as effective as it can be.])
+(;B[em]LB[co:C][cp:E][cq:D][el:A][em:B]
+;W[dm]LB[dl:A]
+;B[dl]
+;W[el]LB[co:A]
+;B[co]
+C[+Black can cut through before playing the vital point. This puts more pressure on White.])
+(;B[co]LB[co:C][cp:E][cq:D][el:A][em:B]
+C[Black misses a chance to cut White.])
+(;B[cq]LB[co:C][cp:E][cq:D][el:A][em:B]
+C[D = 1]
+;W[bo]SQ[bm][cl][cm]
+C[Why making your weak stones even more weak?])
+(;B[cp]LB[co:C][cp:E][cq:D][el:A][em:B]
+C[E = 1]
+;W[co]SQ[bm][cl][cm]
+C[Why making your weak stones even more weak?]))

@@ -1,0 +1,21 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[13]KM[0.00]
+GN[ ]PW[ ]PB[ ]AW[dc][de]AB[jd][dj]FG[259:]PM[1]
+(;B[hc]
+;W[kk])
+(;B[kj]LB[jj:A][jk:B][kk:C]C[+
+
+Taking an empty corner is the most valuable move. Options A, B or C are also possible.])
+(;B[ch]
+;W[kk])
+(;B[cg]
+;W[kk])
+(;B[kk]LB[jj:B][kj:A][jk:C]C[+
+
+Taking an empty corner is the most valuable move. Options A, B or C are also possible.])
+(;B[jj]LB[kj:A][jk:C][kk:B]C[+
+
+Taking an empty corner is the most valuable move. Options A, B or C are also possible.])
+(;B[jk]LB[jj:A][kj:B][kk:C]C[+
+
+Taking an empty corner is the most valuable move. Options A, B or C are also possible.]))

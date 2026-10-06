@@ -1,0 +1,16 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[Белые]PB[Черные]AW[cb][dc][dd][fd][be][ce][de][af][ff][ci][di][ck][bl]AB[db][eb][cc][fc][gc][ic][ad][bd][cd][ae][cf][df][cg]
+;B[bf]
+;W[ag]
+(;B[ah]C[+])
+(;B[bh]
+;W[ac])
+(;B[bg]
+;W[ah]
+;B[bh]
+;W[ai]
+;B[bi]
+;W[aj]
+;B[bj]
+;W[ak]CR[cc][ad][bd][cd][ae][bf][cf][df][bg][bh][bi][bj]C[One will escape, one will die]))

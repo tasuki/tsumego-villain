@@ -1,0 +1,17 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[6.50]
+PW[Белые]PB[Черные]AW[da][eb][bc][dc][cd][ed][ce][ee]AB[cb][db][cc][bd][be][cf][cg]
+(;B[bb]C[+])
+(;B[ba]
+;W[bb]SQ[cb][db][cc])
+(;B[ca]
+;W[bb]
+;B[ea]
+;W[ba]LB[da:A][fa:B]SQ[ca][cb][db][cc])
+(;B[de]
+;W[dd]
+(;B[bb]SQ[dd][de]C[+
+
+Bad exchange!])
+(;B[df]
+;W[bb])))

@@ -1,0 +1,16 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+AW[pc][qc][dd][df][dj][nm][rm][pn][qn][rn][sn][ho][jo][ro][dp][qp][sp][hq][qq][rq]AB[fc][oc][jd][pd][pf][ol][ql][rl][om][pm][qm][on][po][qo][lp][pp][jq][pq]TR[qc]
+(;B[ob]TE[2]
+;W[re]LB[rf:B][qg:A]
+;B[rf]
+;W[qe]LB[pe:A][qf:B]
+;B[qf]
+;W[pe]
+;B[oe]
+;W[qd]
+;B[od]
+;W[pb]LB[db:A][fe:B]
+;B[fe]C[+])
+(;B[qd]
+;W[ob]C[Wrong direction. The black stones at the top can become vulnerable.]))

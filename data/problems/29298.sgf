@@ -1,0 +1,29 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[13]KM[0.00]
+GN[ ]PW[ ]PB[ ]AW[ij][dk][hk][cl][el][gl]AB[di][fi][cj][fj][bk][fk][bl][fl]C[Problem 33. Black to play.
+How can Black keep the two groups of white stones separated?]FG[259:]PM[1]
+(;B[fm]C[+
+
+Its the best way])
+(;B[em]
+(;W[dm]
+;B[fm])
+(;W[fm]
+;B[gm]
+;W[hm]
+;B[fm])
+(;W[gm]
+;B[dm]
+(;W[cm]
+;B[fm])
+(;W[fm]
+;B[cm])))
+(;B[gm]
+(;W[hm]
+;B[fm])
+(;W[fm]
+;B[em]
+(;W[hm]
+;B[fm])
+(;W[dm]
+;B[fm]))))

@@ -1,0 +1,12 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[6.50]
+AW[pk][qk][rk][sk][ol][rl][om][sm][on][oo][pp][rp][sp][oq][qq][rq]AB[ql][pm][rm][pn][qn][sn][po][ro][so][qp]
+(;B[pl]
+;W[qo]
+;B[sl]LB[sm:A][qp:B]C[+
+
+A and B are miai in the double ko])
+(;B[qo]
+;W[pl])
+(;B[sl]
+;W[pl]))

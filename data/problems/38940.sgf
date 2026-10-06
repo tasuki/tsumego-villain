@@ -1,0 +1,13 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[Белые]PB[Черные]AW[aa][ba][da][db][dc][ec][bd][cd][dd][ae][af][bf][cf][ch]AB[bb][cb][eb][fb][ac][bc][fc][ad][ed][be][ce][de][ee]
+(;B[ea]
+;W[ca]CR[ab][cc]C[Seki is nit enough])
+(;B[ca]
+;W[cc]
+(;B[ab]
+;W[ba]
+(;B[aa]
+;W[ba])
+(;B[ea]C[+]))
+(;B[ea]C[+])))

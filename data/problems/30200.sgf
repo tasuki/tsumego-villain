@@ -1,0 +1,34 @@
+(;FF[4]GM[1]CA[UTF-8]AP[besogo:0.0.2-alpha]SZ[19]ST[2]
+RU[Japanese]KM[6.50]
+AB[bd][ce][cf][cg][db][dd][dh][ec][ed][ee][gd]AW[bc][be][cb][cc][cd][dc][de][df][dg][ff][gc][hd][ic]
+;B[fg]
+;W[ef]
+;B[gf]
+;W[fe]
+(;B[ge]
+;W[ch]
+(;B[bh]
+;W[eh])
+(;B[fd]
+C[+])
+(;B[eg]LB[eb:3][fc:1][fd:2]
+C[+Does kill but allows connection.])
+(;B[eh]
+;W[bg]))
+(;B[fd]
+(;W[ch]
+(;B[bh]
+;W[eh])
+(;B[eg]
+C[+]))
+(;W[eb]
+(;B[ge]
+C[+])
+(;B[he]
+;W[fc]
+;B[ge]
+C[+Does kill, but the connection is sente.])
+(;B[eg]
+;W[fc]
+;B[ge]
+C[+Does kill, but the connection is sente.]))))

@@ -1,0 +1,8 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+GN[��������� �����]GC[102 ��� ������. ]SO[����������.ru]AW[fc][dd][pk][qk][pl][qm][rm][pn][rn][do][qo][dp][dq][eq][hq][er]AB[nc][pd][ol][ql][om][pm][cn][on][cp][op][cq][fq][pq][cr][dr]LB[qe:B][cm:A][kp:D][rp:C][jq:E]
+(;B[cm]LB[qe:B][cm:A][kp:D][rp:C][jq:E]C[Very slow and passive.])
+(;B[qe]LB[qe:B][cm:A][kp:D][rp:C][jq:E]C[Big move, but not urgent.])
+(;B[rp]LB[qe:B][cm:A][kp:D][rp:C][jq:E]C[Big move, but not urgent - White can tenuki.])
+(;B[kp]LB[qe:B][cm:A][kp:D][rp:C][jq:E]C[Inefficient. White can stabilize simly via L2.])
+(;B[jq]LB[qe:B][cm:A][kp:D][rp:C][jq:E]C[+ Black pressures White group and strengthens his influence on the bottom. If Black manages to play F2, White has no base.]))

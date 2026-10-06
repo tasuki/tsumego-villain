@@ -1,0 +1,14 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+AW[aa][ca][bb][db][hb][ib][lb][qb][bc][ec][hc][oc][pc][bd][dd][fd][hd][md][qd][fe][ge][he][le][gf][kf][lf][dg][hg][lg][ch][dh][gh][bi][ci][hi][cj][ej][hj][jj][ek][hk][dn][pn][ro][cp][dp][qp][bq][dq][rq]AB[cb][jb][kb][rb][cc][ic][kc][qc][rc][cd][jd][pd][be][de][ie][pe][cf][ef][hf][if][bg][cg][eg][fg][gg][jg][kg][qg][bh][eh][lh][ei][gi][ki][gj][gk][gl][op][cq][fq][kq][pq][qq][br][cr][dr]LB[lk:C][hl:B][gn:A]TR[hg][gh][hi][hj][jj][hk]
+(;B[gn]TE[2]
+;W[lk]LB[nh:A][nk:B]
+;B[nh]
+;W[lc]LB[nk:C][jl:A][lm:B]
+;B[jl]
+;W[kj]LB[lm:A][nn:B]
+;B[lm]C[+Black has made a huge territory at the bottom.])
+(;B[hl]
+;W[il]LB[hl:1]C[Black 1 is a forceful move, but it strengthens White's weak group. ])
+(;B[lk]
+;W[hl]LB[lk:1][hl:2][gm:3][in:4][go:5]C[White will fight like a trapped animal after Black 5. It is hard to predict what will happen, but, if White survives, Black's territory at the bottom could be wiped out. The sequence in the Correct Answer gives Black a sure win.]))

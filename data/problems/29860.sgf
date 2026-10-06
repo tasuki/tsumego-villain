@@ -1,0 +1,12 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[13]KM[0.00]
+PW[Белые]PB[Черные]AW[ch][ei][fi][gi][cj]AB[df][cg][dh][dj][ej][fj][ck]
+(;B[di]C[+])
+(;B[ci]
+;W[di]
+;B[bj]
+;W[bi]
+(;B[bh]TR[bi][di]C[Opponent has two ko-threats
+])
+(;B[cj]C[Opponent has two ko-threats
+])))

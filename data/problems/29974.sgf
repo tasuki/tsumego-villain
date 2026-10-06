@@ -1,0 +1,10 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[13]KM[0.00]
+PW[Белые1]PB[Черные]AW[hf][if][jg][jh][kh][ji][mj][hk][jk][kk][mk][ll]AB[jd][kd][ld][md][ie][jf][kf][kg][lh][ki][kj][lj][lk]LB[mj:1]
+(;B[ml]
+;W[mm]
+;B[mi]LB[kl:B][ml:A]C[+
+
+A and B are miai])
+(;B[mi]
+;W[ml]LB[lg:A][li:C][jj:B]SQ[ki][kj][lj][lk]C[You need to complete yose by A-C exchange. Gote]))

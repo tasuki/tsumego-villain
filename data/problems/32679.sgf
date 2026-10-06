@@ -1,0 +1,15 @@
+(;FF[4]GM[1]CA[UTF-8]AP[besogo:0.0.2-alpha]SZ[19]ST[2]
+RU[Japanese]KM[0.00]GN[��������� �����]GC[94 ��� �����.]SO[����������.ru]
+AB[cj][cp][ej][eq][fm][gk][jq][kq][lc][ld][md][od][pd][qd][qj][rd]AW[cd][ch][cl][el][fc][ip][jp][mc][nc][oc][pc][po][pq][qc][rc]LB[bj:B][cn:A][ic:C][iq:E][lo:D]
+(;W[cn]LB[bj:B][cn:A][ic:C][iq:E][lo:D]
+C[White C8 stones are still in trouble.])
+(;W[bj]LB[bj:B][cn:A][ic:C][iq:E][lo:D]
+;B[oq]SQ[ip][jp]TR[fm][gk]
+C[Saves C8 stones, but now J4 stones are in trouble.])
+(;W[ic]LB[bj:B][cn:A][ic:C][iq:E][lo:D]
+C[The main action is not here.])
+(;W[lo]LB[iq:B][nq:A]
+C[+If Black responds at A to help his stones, White has time to help C8 stones by playing C5 or B10. Later playing B is huge. If Black ignores M5 and plays something like B11, White can play C5 - there are many weaknesses inside that White can use to efficiently reduce Black's territory or run away.])
+(;W[iq]LB[bj:B][cn:A][ic:C][iq:E][lo:D]
+;B[oq]SQ[ip][iq][jp]TR[eq][fm][gk]
+C[White J4 stones can become a burden later. This attack and reduction of Black's territory is too premature.]))

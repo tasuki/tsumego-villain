@@ -1,0 +1,10 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+AW[gb][hb][jb][dc][fc][ic][nc][cd][nd][ne][ng][ph][li][cn][nn][pn][cq][dq][fq][iq]AB[hc][lc][oc][ed][fd][hd][pd][ie][le][re][df][pf][dk][bn][dn][co][dp][lp][np][pp]LB[ce:A][jh:B][pk:C]
+(;B[ce]TE[2]
+;W[dd]LB[bd:A][de:B]
+;B[de]C[+Black can secure most of the territory on the left side.])
+(;B[jh]
+;W[bf])
+(;B[pk]
+;W[qp]))

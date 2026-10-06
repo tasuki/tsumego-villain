@@ -1,0 +1,7 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[Белые]PB[Черные]AW[aa][ca][bb][cb][db][fb][ec][bd][dd][ed][ce]AB[ea][ab][eb][gb][ac][bc][cc][dc][fc]
+(;B[fa]
+;W[cd]
+;B[ba]TR[fa]C[The riangle marked move is useless])
+(;B[ba]C[+]))

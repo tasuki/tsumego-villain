@@ -1,0 +1,14 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+AW[gc][cd][dd][dj][oj][qj][cn][pn][qn][po][dp]AB[kc][od][qd][cf][qh][bj][qo][jp][op][qp][fq][pq]TR[bj]
+(;W[ci]TE[2]
+;B[bi]LB[bh:A][ch:B]
+;W[bh]
+;B[ch]LB[bg:A][cg:B]
+;W[cg]
+;B[dh]LB[bf:A][bg:B]
+;W[bf]
+;B[dg]
+;W[bg]C[+Black's stones are split into two groups.])
+(;W[cj]
+;B[bi]C[Too easy for Black.]))

@@ -1,0 +1,14 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[6.50]
+AW[fb][hc][bd][cf][ci]AB[cc][kc][dd][fd][pd][ge]LB[fb:1]
+(;B[ec]
+;W[he])
+(;B[id]
+;W[ic]LB[jc:A]C[play at A]
+;B[jc]
+;W[ec]LB[df:A]C[play at A]
+;B[df]
+;W[dg]LB[ce:A]C[play at A]
+;B[ce]
+;W[bf]
+;B[db]C[+]))

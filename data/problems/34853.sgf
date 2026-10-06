@@ -1,0 +1,10 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+AW[kc][nc][dd][qk][fm][dn][en][qn][co][cp][gp][bq]AB[pd][cf][qf][di][qi][dl][eo][fo][dp][qp][cq][eq][pq]LB[fd:A][cr:B]TR[cf]
+(;W[cr]TE[2]
+;B[go]LB[ip:B][dq:A]
+;W[ip]
+;B[ho]LB[jq:A][lq:B]
+;W[lq]C[+White can establish a position at the bottom.])
+(;W[fd]
+;B[cr]C[Black has a good game because all of his stones are secure.]))

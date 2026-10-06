@@ -1,0 +1,14 @@
+(;FF[4]GM[1]CA[UTF-8]AP[besogo:0.0.2-alpha]SZ[19]ST[2]
+RU[Japanese]KM[0.00]GC[148 ��� �����.]
+AB[cc][cr][dd][dq][er][fc][gq][mc][pn][pp][qf][qi][qq]AW[bd][cf][ck][cp][cq][dh][do][kq][nq][oc][pr][qd]LB[bc:A][id:E][nc:D][oe:B][re:C]
+(;W[bc]LB[bc:A][id:E][nc:D][oe:B][re:C]
+C[Small.])
+(;W[oe]LB[bc:A][id:E][nc:D][oe:B][re:C]
+C[+Ensures that Black's territory on top and right sides are under control and can be invaded, if and when needed. Without this move Black will have some forcing moves nearby that will help him in building influence and territory.])
+(;W[re]LB[bc:A][id:E][nc:D][oe:B][re:C]
+C[Small.])
+(;W[nc]LB[bc:A][id:E][nc:D][oe:B][re:C]
+;B[md]TR[jd][mc]LB[md:2][nc:1]
+C[This exchange is better for Black.])
+(;W[id]LB[bc:A][id:E][nc:D][oe:B][re:C]
+C[There is no need in entering Black's zone of influence. White has many better option to control Black's point on the top (such as, for example, G14 move).]))

@@ -1,0 +1,32 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[6.50]
+AW[bp][cp][dp][kp][lp][eq][iq][jq][mq][hr][jr][mr]AB[dl][cn][ho][ko][ip][jp][cq][gq][hq][kq][ir]
+(;B[gr]
+;W[is]
+(;B[dr]
+;W[er]LB[es:B][gs:A]TR[hr]SQ[kq]C[You asked for too little. The triangle marked stone will be given to you after the A - B exchange, and The square marked stone will no longer be able to influence anything])
+(;B[er]
+;W[dr]
+(;B[fr]
+;W[cr])
+(;B[fs]
+;W[cr]LB[hs:A]TR[hr]SQ[kq]C[You asked for too little. The triangle marked stone will be given in ko to you after the move at A, and The square marked stone will no longer be able to influence anything])
+(;B[gs]
+;W[hs]
+;B[ds]
+;W[cs]
+;B[es]
+;W[cr])))
+(;B[kr]
+;W[is]
+;B[ks]
+;W[js]
+;B[gr]
+;W[lq]
+(;B[gs]
+;W[ls]
+;B[dr]C[+
+
+])
+(;B[fs]
+;W[dr]LB[hs:A]C[Beginning ko at A is not bad. But it can be better])))

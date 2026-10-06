@@ -1,0 +1,16 @@
+(;FF[4]GM[1]CA[UTF-8]AP[besogo:0.0.2-alpha]SZ[19]ST[2]
+RU[Japanese]KM[0.00]GC[122 ��� �����.]
+AB[fc][fd][fq][ic][ie][jp][jq][me][nd][nl][nn][np][nr][oc][od][oi][ol][pd][pf][pp][pq][qc][qi][qo][qp]AW[ci][cn][dd][df][dp][ec][kc][kn][ld][lo][lq][md][nb][nc][ne][nf][nk][ob][ok][or][pn][qk][qn][qq]LB[in:E][lk:A][mk:C][ml:B][pl:D]
+(;W[lk]SQ[kl][mk][pk][pl]LB[in:E][lk:A][ml:B]
+C[Leaves too many weaknesses.])
+(;W[ml]LB[in:E][lk:A][mk:C][ml:B][pl:D]
+;B[mm]
+C[White cannot connect. This exchange creates weaknesses and weakens M5 group.])
+(;W[mk]LB[in:E][lk:A][mk:C][ml:B][pl:D]
+;B[pl]
+C[Black destroys White's shape.])
+(;W[pl]TR[ok][pl][pn][qk][qn]LB[in:E][lk:A][mk:C][ml:B]
+C[+White stabilizes his group. Having two weak groups (Q8 and M5) nearby would have been troublesome.])
+(;W[in]LB[in:E][lk:A][mk:C][ml:B][pl:D]
+;B[pl]
+C[Black destroys White's shape.]))

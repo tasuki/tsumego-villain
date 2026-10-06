@@ -1,0 +1,17 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[6.50]
+PW[Белые]PB[Черные]AW[bb][cb][hb][ac][cc][ec][fc][hc][bd][dd][gd][de][ge][df][ff][gf][eg][fg][bh][ch][dh]AB[db][eb][fb][gb][dc][gc][cd][be][ce][fe][cf][ef][ag][bg][cg][dg]
+(;B[ee]
+(;W[ed]
+;B[fd]C[+])
+(;W[fd]
+;B[ed]C[+]))
+(;B[ed]
+;W[ee]
+(;B[fd]
+;W[ef]SQ[cd][be][ce][cf][ag][bg][cg][dg]C[The marked stones are dead])
+(;B[ef]C[+]))
+(;B[fd]
+;W[ee]
+;B[ed]
+;W[ef]SQ[cd][be][ce][cf][ag][bg][cg][dg]C[The marked stones are dead]))

@@ -1,0 +1,29 @@
+(;FF[4]GM[1]CA[UTF-8]AP[besogo:0.0.2-alpha]SZ[19]ST[2]
+RU[Japanese]KM[6.50]
+AB[pr][ps][qp][rp][rr][sp]AW[or][os][po][pp][pq][qo][ro][so][sr][ss]
+(;B[qq]
+;W[rs]
+(;B[sq]
+C[+])
+(;B[qr]
+;W[sq]
+C[This is marked as the correct solution in the book (seki as others in this section).
+But it is actually not correct, as black can live.]))
+(;B[qr]
+;W[qq]
+(;B[rq]
+;W[rs])
+(;B[rs]
+;W[rq]
+;B[sq]
+;W[sr]))
+(;B[rq]
+;W[qr])
+(;B[rs]
+;W[qq]
+(;B[qr]
+;W[rq]
+;B[sq]
+;W[sr])
+(;B[rq]
+;W[qr])))

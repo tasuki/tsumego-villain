@@ -1,0 +1,56 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[13]KM[0.00]
+PW[Белые]PB[Черные]AW[hi][dk][ek][hk][cl][el][dm]AB[dh][ji][dj][ej][fj][bk][ck][jk][bl]
+(;B[fk]
+;W[fl]
+;B[gk]
+;W[gl]
+(;B[il]
+;W[hl]C[Wrong answer
+Eye`s shape is not destroyed. Opportunity are lost
+
+Неправильный ответ
+Глазная форма не разрушена. Возможность упущена])
+(;B[hj]
+;W[ij]
+;B[gj]
+;W[ik]TR[ji][jk]C[Its dangerous for the marked stones]))
+(;B[gk]
+;W[gl]
+(;B[il]
+;W[hl]
+;B[fk]
+;W[fl]C[
+
+Eye`s shape is not destroyed. Opportunity are lost
+])
+(;B[hl]
+;W[gj]
+;B[fk]
+;W[il]
+;B[fl]
+;W[hm]C[Its possible but very dangerous for the marked stones ]))
+(;B[hl]
+;W[gl]
+(;B[il]
+;W[gk])
+(;B[gk]
+;W[gj]
+;B[fk]
+;W[il]
+;B[fl]
+;W[hm]TR[ji][jk]C[Its possible but very dangerous for the marked stones ]))
+(;B[gl]
+;W[gk]
+;B[hl]
+;W[fl]
+(;B[ik]LB[fk:A]C[+
+
+Eye`s shape is destroyed. You get some territory
+Also connecting at A is needed for opponent
+])
+(;B[il]LB[fk:A]C[+
+
+Eye`s shape is destroyed. You get some territory
+Also connecting at A is needed for opponent
+])))

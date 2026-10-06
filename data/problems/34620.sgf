@@ -1,0 +1,8 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+AW[kc][nc][cf][ci][do][dp][jp][pp][rp][dq][eq][hq][nq][er]AB[ic][pc][cd][dd][qd][pj][cn][on][qn][cp][cq][fq][cr][dr]TR[kc][nc]
+(;B[ne]C[+Black plays a multi-purpose move. It attacks White's two stones at the top while expanding Black's moyo on the right. ]TE[2])
+(;B[kd]
+;W[ld]C[Attaching is overly aggressive. ])
+(;B[je]
+;W[me]C[Too slack.]))

@@ -1,0 +1,13 @@
+(;FF[4]GM[1]CA[UTF-8]AP[besogo:0.0.2-alpha]SZ[19]ST[2]
+RU[Japanese]KM[0.00]GC[104 ��� �����.]
+AB[be][cf][dd][de][df][dg][ec][fd][gq][jq][op][pd][pq][qc][qf]AW[ac][bb][bd][cb][cd][ce][db][dc][do][dq][ef][ld][nc][pb][ql][qo]LB[cj:E][cl:B][ic:A][lq:C][qi:D]
+(;W[ic]CR[cb][db]TR[cf][dd][de][df][dg][ec][fd]LB[cj:E][cl:B][ic:A][lq:C][qi:D]
+C[Wrong direction - Black can build little points on the top side.])
+(;W[cl]LB[cj:E][cl:B][ic:A][lq:C][qi:D]
+C[+Enlarges the corner and prevents a perfect extension by Black from D13 group.])
+(;W[lq]LB[cj:E][cl:B][ic:A][lq:C][qi:D]
+C[Why creating weak groups without real need? White cannot invade efficiently since Black has many forcing moves around R8 group.])
+(;W[qi]LB[cj:E][cl:B][ic:A][lq:C][qi:D]
+C[The left side is more important.])
+(;W[cj]LB[cj:E][cl:B][ic:A][lq:C][qi:D]
+C[Too deep. Black can invade and make use of his strong D13 group.]))

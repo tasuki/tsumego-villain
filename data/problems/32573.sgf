@@ -1,0 +1,22 @@
+(;FF[4]GM[1]CA[UTF-8]AP[besogo:0.0.2-alpha]SZ[19]ST[2]
+RU[Japanese]KM[0.00]GN[��������� �����]GC[15 ��� �����.]SO[����������.ru]
+AB[cd][cf][dc][dp][ec][ep][eq][iq][mc][me][mr][oi][op][oq][pd][pq][qd][qi]AW[cn][cp][cq][dq][ed][fc][gd][kc][ke][mp][ok][pn][po][pp][qk][qq][qr]LB[jq:A][kq:B][lq:C][lr:D][nr:E]
+(;W[jq]LB[jq:A][kq:B][lq:C][lr:D][nr:E]
+;B[jr]LB[kr:A]
+;W[kr]
+;B[kq]LB[jp:A]
+;W[jp]
+;B[lr]LB[ir:A]
+;W[ir]
+;B[ks]LB[hq:A]
+;W[hq]SQ[dp][ep][eq]
+C[+The only way to cut, Black's E4 stones will be under heavy attack.])
+(;W[kq]LB[jq:A][kq:B][lq:C][lr:D][nr:E]
+;B[kr]
+C[Allows black to connect, White gains nothing.])
+(;W[lq]LB[jq:A][kq:B][lq:C][lr:D][nr:E]
+C[Only helps Black to connect.])
+(;W[lr]LB[jq:A][kq:B][lq:C][lr:D][nr:E]
+C[Does not work - White sacrifices stone for nothing.])
+(;W[nr]LB[jq:A][kq:B][lq:C][lr:D][nr:E]
+C[Small and allows Black to connect.]))

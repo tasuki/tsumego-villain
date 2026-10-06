@@ -1,0 +1,23 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[13]KM[6.50]
+AW[ei][ej][gj][dk][fk]AB[ch][hh][cj][dj][hj][ek][el]LB[gj:1]
+(;B[hk]
+(;W[fl]
+;B[dl]LB[hk:1][dl:3][fl:2]C[+
+
+A good 1-2 exchange before protection 3 prevents group from building an eye shape. You have prepared a nice attack])
+(;W[dl]LB[hk:1][dl:2]
+;B[fl]LB[hk:1][dl:2][fl:3]C[+
+
+Move at 2 is unreasonable. Answer at 3 connects all stones and the two stones in the corner will be captured]))
+(;B[fl]
+;W[hk]
+;B[gl]
+;W[gk])
+(;B[gl]LB[gl:1]
+;W[fl]LB[fl:2][gl:1]
+;B[fm]LB[fl:2][gl:1][fm:3]
+;W[dl]LB[dl:4][fl:2][gl:1][fm:3]
+;B[em]LB[dl:4][fl:2][gl:1][em:5][fm:3]
+;W[hk]LB[hk:6][dl:4][fl:2][gl:1][em:5][fm:3]C[Move 1 aims to link up all stones, but it fails with the moves to 6.
+]))

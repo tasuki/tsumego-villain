@@ -1,0 +1,13 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[13]KM[0.00]
+PW[Белые]PB[Черные]AW[bf][cf][cg][dh][ci][di][ei]AB[bg][dg][eg][bh][ch][bj][dj][dk]LB[ci:1]
+(;B[bi]
+;W[cj]
+;B[ck]C[+])
+(;B[cj]
+;W[bi]
+;B[ai]
+;W[ag]SQ[dg][eg]C[
+Three stones are lost. Marked stones is useless
+
+]))

@@ -1,0 +1,10 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[6.50]
+AW[dd][df][cj][pn][qn][cq][eq][jq]AB[fc][jd][pd][cl][co][qo][np][pp]LB[qg:B][qk:A][el:C]
+(;B[qk]C[+
+
+This is working with weak stones. Its another type of the most valuable move])
+(;B[qg]
+;W[qj]C[This is a big and ordinary move. It's not enough])
+(;B[el]
+;W[qj]C[This is a big and ordinary move. It's not enough]))

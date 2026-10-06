@@ -1,0 +1,6 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[13]KM[0.00]
+GN[ ]PW[ ]PB[ ]AW[db][ic][jc][bd][cd][fd][gd][kd][ae][de][fe][he][je][ke][le][bf][df][ef][ff][hf][if][jf][kf][lf][mf][bg][cg][fg][gg][kg][lg][ah][bh][li][aj][dj][ej][hj][kj][lj][mj][ak][bk][ck][dk][fk][gk][hk][ik][jk][lk][cl][kl]AB[eb][jb][ac][bc][cc][dc][fc][gc][hc][kc][lc][ad][dd][ed][hd][id][jd][ld][md][ee][ie][me][cf][dg][eg][hg][ig][jg][ch][fh][gh][jh][kh][lh][mh][ai][bi][ci][di][ei][fi][hi][ii][ki][mi][bj][cj][fj][gj][ij][jj][bl][ll]LB[mg:A]C[SECTION 10. ENDGAME
+Problem 119. Determining the score.
+The game is over. Both sides have taken three prisoners and both have three dead stones left on the board. Determine the score.]FG[259:]PM[1]
+;B[mg]LB[gf:37][hh:37]C[+])

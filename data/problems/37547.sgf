@@ -1,0 +1,8 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+AW[ob][pc][dd][df][dj][nm][rm][pn][qn][rn][sn][ho][jo][ro][dp][qp][sp][hq][qq][rq]AB[fc][oc][jd][pd][pf][ol][ql][rl][om][pm][qm][on][po][qo][lp][pp][jq][pq]LB[pb:A][od:B]TR[ob]
+(;B[od]TE[2]
+;W[pb]
+;B[nb]C[+])
+(;B[pb]
+;W[qc]LB[nb:5][pb:1][qb:3][rb:7][mc:10][nc:6][qc:2][nd:11][od:4][qd:8][me:12][pe:9]C[Black loses his moyo at the top.]))

@@ -1,0 +1,8 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+AW[pb][qb][nc][qc][dd][kd][qd][qf][qg][dj][dp][jp]AB[ob][oc][pc][id][nd][pd][pe][pg][ph][pj][lp][pp]TR[kd]
+(;B[jf]TE[2]
+;W[lf]LB[kg:A][kh:B][lh:C]
+;B[kh]TR[ob][oc][pc][nd][pd][pe][pg][ph][pj]C[+Black drives White into his marked stones. White's stones are lost.])
+(;B[kf]
+;W[je]))

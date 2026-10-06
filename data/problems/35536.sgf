@@ -1,0 +1,23 @@
+(;FF[4]GM[1]CA[UTF-8]AP[besogo:0.0.2-alpha]SZ[19]ST[2]
+RU[Japanese]KM[0.00]PW[Blanc]PB[Noir]
+AB[bd][cb][cc][cd]AW[bf][cf][df][eb][ec][ed][ee]LB[ab:no][gc:yes]
+C[Does the proverb say : The L group is dead ?
+If this proverb doesn't exist use the promising NO point to make your group live.]
+(;B[gc]LB[ab:no][gc:yes]
+C[+The L Group is dead])
+(;B[ab]
+;W[ba]
+(;B[ca]
+;W[bb]
+(;B[ad]
+;W[bc])
+(;B[bc]
+;W[ad]
+;B[ae]
+;W[be]))
+(;B[bb]
+;W[ca]
+;B[da]
+;W[db]
+;B[aa]
+;W[ca])))

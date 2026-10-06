@@ -1,0 +1,22 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[13]KM[0.00]
+PW[Белые]PB[Черные]AW[di][fi][hi][cj][dj][jj][ck][jk][dl][el][fl][hl][il][em][gm]AB[bk][dk][ek][fk][gk][hk][ik][bl][cl][gl]
+(;B[cm]
+;W[hm]
+;B[dm]
+(;W[jl]
+;B[fm]C[+])
+(;W[fm]
+;B[jl]C[+]))
+(;B[dm]
+;W[cm]
+;B[bm]
+;W[jl]
+;B[dm])
+(;B[jl]
+;W[kl]
+;B[cm]
+;W[jm]
+;B[dm]LB[fm:A][hm:B]C[+
+
+A and B are miai. Stone`s sacrifice is not nessesary]MA[jl]))

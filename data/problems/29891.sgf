@@ -1,0 +1,12 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[13]KM[0.00]
+PW[Белые]PB[Черные]AW[ha][cb][eb][fb][hb][ib][dc][gc][ic][cd][hd][id][ce][me][df][ff][gf][hf][if][kf][lf][mf][dg][eg][fg][ig][kg][lg][mg][gh][ih][jh][kh][ai][bi][ci][di][ei][gi][bj][ej][gj][hj][ak][fk][gk][kk][gl][hl][kl][fm][gm]AB[ia][ja][jb][kb][ec][fc][jc][lc][dd][gd][jd][md][de][ee][fe][ge][he][ie][je][ke][le][ef][jf][gg][hg][hh][lh][mh][hi][ii][ji][ki][li][cj][dj][ij][kj][mj][bk][dk][ek][hk][ik][jk][lk][al][cl][el][fl][il][em][im]LB[aj:A]C[Please play at A
+]
+;B[aj]
+;W[ll]LB[ml:A]C[Do you need answer to ko-threat at A?
+]
+(;B[ak]SQ[kk][kl][ll]C[+])
+(;B[ml]
+;W[ak]SQ[kk][kl][ll]C[
+Not need. The marked stones dead anyway. They coudn`t catch others or get base
+]))

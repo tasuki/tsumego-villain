@@ -1,0 +1,15 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[13]KM[6.50]
+AW[ha][la][fb][gb][jb][kb][lb][hc][fd][hd][ld][je][ke][le]AB[ga][ja][hb][ib][mb][ic][jc][kc][lc][kd]
+(;B[mc]
+;W[ka])
+(;B[ia]
+;W[ka])
+(;B[ka]
+;W[ia]
+;B[ja]LB[ha:A]C[+
+
+1. The opponent plays in A. The group lives in a four-move cycle. Draw.
+2. Using the superko rule does not allow attacking the group at point A after exhausting the ko-threats. The game is continuing. You should defend yourself in A only at the very end because when attacking you will be able to defend yourself with a four-move cycle. 
+
+Visit Ichigaya Station (Tokyo) one day]))

@@ -1,0 +1,9 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+GN[��������� �����]SO[����������.ru]AW[dc][fd][ch][qh][qk][dp]AB[oc][qd][ce][df][qo][pq]LB[bc:A][hc:B][cg:C][cq:E][jq:D]C[106 ��� ������. ]G[tt]
+(;B[bc]LB[bc:A][hc:B][cg:C][cq:E][jq:D]C[+ Immediately stabilizes Black and gets points. If White plays her first, Black would be in big trouble.])
+(;B[hc]LB[bc:A][hc:B][cg:C][cq:E][jq:D]
+;W[bc]SQ[ce][df]C[Wrong direction of play: White is pushed to become stronger and start pressuring Black stones.])
+(;B[cg]LB[bc:A][hc:B][cg:C][cq:E][jq:D]C[Inefficient: White will become stronger first and gain momentum for counterattack.])
+(;B[jq]LB[bc:A][hc:B][cg:C][cq:E][jq:D]C[Big move, but wrong direction of play: weak stones are more important.])
+(;B[cq]LB[bc:A][hc:B][cg:C][cq:E][jq:D]C[Big move, but wrong direction of play: weak stones are more important. White will progit from attacking C15 group.]))

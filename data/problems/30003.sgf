@@ -1,0 +1,10 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[13]KM[0.00]
+PW[Белые1]PB[Черные]AW[lc][mc][id][jd][ld][he][ke][kf][hg][lg][ih][lh][ki][kj]AB[lb][mb][jc][kc][kd][je][jf][jg][kg][kh][li]
+(;B[le]
+;W[lf]SQ[je][jf][jg][kg][kh][li])
+(;B[lf]
+;W[le]
+;B[mf]TR[li]SQ[lc][mc][ld][ke][le][kf]C[+
+
+The stones marked by squares are captured because a stone marked by triangle prevents it from attacking the cutting stones]))

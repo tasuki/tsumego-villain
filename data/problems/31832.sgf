@@ -1,0 +1,14 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[6.50]
+AW[kd][je][qe][cf][ef][jg][dj][pk][qk][pm][dn][en][pn][do][po][dp][pp][gq][jq][oq][pr]AB[ic][qc][bd][dd][fd][od][he][ql][qm][eo][fo][qo][qp][cq][dq][eq][fq][pq][qq][qr]LB[pf:C][hg:B][or:A]
+(;B[pf]
+;W[qf]
+;B[pg]
+;W[qg]
+;B[ph]C[+])
+(;B[or]
+;W[nr]
+;B[ps]
+;W[nq]C[Sente-yose? Tuban is now])
+(;B[hg]
+;W[of]LB[hg:B]C[B is a good point, but if partner were allowed to play circle marked point, his territorial framework would become almost impregnable.]))

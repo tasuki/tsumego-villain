@@ -1,0 +1,11 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[13]KM[0.00]
+PW[Белые1]PB[Черные]AW[gb][dc][ec][gc][dd][fd][de][bf][cf]AB[ed][ee][af][df][ef][bg][dg][bh][dh]LB[af:1]
+(;W[ae]
+;B[ag]
+(;W[be]C[+])
+(;W[bd]C[+]))
+(;W[bd]
+;B[ad]TR[ac][bc][ad][bd]C[Its losing the four extra points])
+(;W[be]
+;B[ae]TR[ad][bd]C[Its losing the two extra points]))

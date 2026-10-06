@@ -1,0 +1,23 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[6.50]
+DT[2021-09-03]AW[bh][ai][bj][cj][dj][dk][el][em][cn][en][do][dp][ep][aq][eq][br][cr][dr]AB[aj][ak][bk][ck][dl][bm][dm][dn][bo][co][bq][cq][dq][ar]
+(;W[bp]
+;B[cp]
+;W[bn]
+;B[ap]
+(;W[al]
+;B[an]
+(;W[bl]C[+])
+(;W[cl]C[+]))
+(;W[an]
+;B[am]))
+(;W[ao]
+;B[an]
+;W[bp]
+;B[ap])
+(;W[bn]
+;B[an]
+;W[bp]
+;B[ap]
+;W[cp]
+;B[cm]C[White can do better.]))

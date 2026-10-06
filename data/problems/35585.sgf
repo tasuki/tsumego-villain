@@ -1,0 +1,15 @@
+(;FF[4]GM[1]CA[UTF-8]AP[besogo:0.0.2-alpha]SZ[19]ST[2]
+RU[Japanese]KM[0.00]PW[White]PB[Black]
+AB[bd][bg][cb][cc][cd][cg][di][fb][fc][hd]AW[be][ce][db][dc][dd][de][eg][fe][gg]TR[gb][gc]MA[bb]
+G[KILL]
+;W[bb]
+;B[ba]
+(;W[ab]
+;B[da]
+;W[ea]
+;B[eb]
+C[Your opponent will find a ko no matter what.]
+S[KO+])
+(;W[da]
+;B[ab]
+S[ALIVE]))

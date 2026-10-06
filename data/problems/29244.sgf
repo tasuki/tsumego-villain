@@ -1,0 +1,15 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[13]KM[0.00]
+GN[ ]PW[ ]PB[ ]AW[ke][le][jf][mf][lg]AB[kf][lf][hg][jg][kh]C[Problem 17. Black to play.
+Two black stones are in danger. How can Black save them?]FG[259:]PM[1]
+(;B[kg]C[+])
+(;B[if]
+;W[kg])
+(;B[mg]
+;W[kg])
+(;B[lh]
+;W[kg])
+(;B[ig]
+;W[kg])
+(;B[jh]
+;W[kg]))

@@ -1,0 +1,15 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+AW[kc][nc][dd][ok][qk][ro][dp][fp][cq][jq]AB[pc][pd][oi][qi][ck][cn][po][bp][lq][pq]TR[ro]
+(;B[qn]TE[2]
+;W[rn]LB[qm:A][rm:B]
+(;B[rm]
+;W[rl]LB[ql:A][qm:B]
+;B[qm]
+;W[sm]LB[pk:B][rl:4][rq:A]C[+White links up with 4 and 6, but even if she jumps to A, she doesn't have two eyes yet. Black is also threatening to wedge in with B.])
+(;B[qm]
+;W[rm]))
+(;B[rq]
+;W[qm])
+(;B[qp]
+;W[qm]))

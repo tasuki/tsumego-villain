@@ -1,0 +1,9 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[6.50]
+PW[Белые]PB[Черные]AW[nd][od][pd][ne][qe][qf]AB[ob][qc][qd][oe][pe][og]
+(;B[pg]C[+
+
+Best solution!])
+(;B[of]LB[pg:A]C[Its possible but retry with A])
+(;B[pf]LB[pg:A]C[Its possible but retry with A])
+(;B[nf]LB[pg:A]C[Its possible but retry with A]))

@@ -1,0 +1,12 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[13]KM[0.00]
+GN[ ]PW[ ]PB[ ]AW[ed][fd][gd][hd][de][ie][df][ff][if][dg][fg][ig][dh][fh][ih][ei][ii][ej][fj][gj][hj]AB[ee][fe][ge][he][ef][hf][eg][hg][eh][hh][fi][gi][hi]FG[259:]PM[1]
+(;B[gg]C[+])
+(;B[gh]
+;W[gg]C[...White sacrifices four stones and...]
+;B[gf]C[...after Black takes with 3...]
+;W[fg])
+(;B[gf]
+;W[gg]
+;B[gh]
+;W[fg]))

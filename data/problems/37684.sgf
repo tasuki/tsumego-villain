@@ -1,0 +1,16 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+AW[gb][hb][dc][fc][ic][nc][cd][nd][ne][bf][ng][ph][li][cn][nn][pn][cq][dq][fq]AB[hc][lc][oc][ed][fd][hd][pd][ie][le][re][df][pf][dk][bn][dn][co][dp][lp][np][pp]LB[qi:A][lk:B][qo:C]
+(;B[qi]TE[2]
+;W[qh]LB[rh:A][ri:B]
+;B[rh]
+;W[rg]LB[ri:A][qk:B]
+;B[ri]
+;W[qg]LB[pi:A][oj:B]
+;B[pi]
+;W[oh]LB[oi:A][ql:B]
+;B[ql]C[+Black's aim is to drive a wedge between White's positions above and below. ])
+(;B[qo]
+;W[qn])
+(;B[lk]
+;W[qp]))

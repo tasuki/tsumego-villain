@@ -1,0 +1,15 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[6.50]
+AW[md][qf]AB[jc][nd][pd]LB[mc:A][nc:C][md:1][me:B][ne:D]TR[jc]
+(;B[ne]C[+
+
+Thia is the standard response. You plan to fight on a grand scale])
+(;B[me]C[+
+
+Here is the severest move, but the aptness of this move depends on the surrounding position])
+(;B[mc]LB[lc:A][mc:2][md:1]TR[jc][nd]C[+
+
+Move 2 is the safest response. Here Black is playing for territory. Move A is the most expected answer. You should study this form])
+(;B[nc]LB[nc:1][md:A][nd:B]TR[jc]SQ[jd]C[Move 1 is too tight and submissive. In almost all cases, it is inferior
+
+It looks as if after move 1 you played a triangle move and got an A-B exchange. Of course, you need a square instead of a triangle]))

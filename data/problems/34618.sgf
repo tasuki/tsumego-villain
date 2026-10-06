@@ -1,0 +1,8 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+AW[qa][ob][pb][rb][lc][dd][le][df][dj][qn][cp][rp][eq][mq][nq][pq][qq][rq]AB[qb][fc][jc][pc][qc][rc][jd][pd][pf][pj][qo][ro][jp][mp][np][op][pp][qp]LB[md:A][jf:B][mg:C]TR[qa][ob][pb][rb][lc][le]
+(;B[mg]TE[2]
+;W[kf]LB[md:A][if:B][kh:C]
+;B[kh]C[+Black builds a big moyo.])
+(;B[jf]
+;W[lg]))

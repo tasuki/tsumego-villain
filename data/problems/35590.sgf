@@ -1,0 +1,25 @@
+(;FF[4]GM[1]CA[UTF-8]AP[besogo:0.0.2-alpha]SZ[19]ST[2]
+RU[Japanese]KM[0.00]PW[White]PB[Black]
+AB[bd][ca][cb][cc][cd]AW[ac][bf][bh][cf][dd][de][eb][ec][gb]CR[ac]MA[ca]
+G[LIVE]
+(;B[ab]
+;W[bb]
+;B[ba]
+;W[aa]
+C[You found a ko !]
+S[KO+])
+(;B[ae]
+;W[bb]
+S[DEAD])
+(;B[ad]
+;W[bb]
+S[DEAD])
+(;B[bb]
+;W[ad]
+S[DEAD])
+(;B[bc]
+;W[ab]
+S[DEAD])
+(;B[be]
+;W[bb]
+S[DEAD]))

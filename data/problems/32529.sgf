@@ -1,0 +1,15 @@
+(;FF[4]GM[1]CA[UTF-8]AP[besogo:0.0.2-alpha]SZ[19]ST[2]
+RU[Japanese]KM[0.00]GC[169 ��� �����.]
+AB[bc][be][cd][co][dq][oc][oi][pd][ph][pj][qb][qc][qh]AW[cc][dc][ed][id][lc][ng][oh][pg][pq][qd][qe][rc]LB[dg:D][iq:A][qg:E][qn:C][qo:B]
+(;W[iq]LB[dg:D][iq:A][qg:E][qn:C][qo:B]
+;B[qo]
+C[Wrong direction - Black starts forming a lot of points.])
+(;W[qo]LB[dg:D][iq:A][qg:E][qn:C][qo:B]
+C[Correct direction, but after R13 Q14 exchange, Black will happily play a perfect extension at R7.])
+(;W[qn]LB[dg:D][iq:A][qg:E][qn:C][qo:B]
+C[+Strengthens the corner and does not allow Black to make a perfect extension from Q10 later.])
+(;W[dg]LB[dg:D][iq:A][qg:E][qn:C][qo:B]
+C[White's moyo on the top is too open and this move is not really forcing.])
+(;W[qg]LB[dg:D][iq:A][qg:E][qn:C][qo:B]
+;B[qo]
+C[White gains little points while Black's profit is much bigger.]))

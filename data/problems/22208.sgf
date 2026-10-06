@@ -1,0 +1,16 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]AW[do][eo][fo][fp][cq][fq][cr][fr][ds][fs]AB[cn][dn][en][fn][co][go][bp][ep][gp][bq][gq][br][gr][cs][gs]
+(;B[dp]
+;W[cp]
+;B[dr]
+;W[bs]
+(;B[eq]C[+])
+(;B[dq]
+;W[cs]))
+(;B[dr]
+;W[bs]
+;B[dp]
+;W[dq]
+;B[cp]
+;W[er]))

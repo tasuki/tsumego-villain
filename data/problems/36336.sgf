@@ -1,0 +1,36 @@
+(;FF[4]GM[1]CA[UTF-8]AP[besogo:0.0.2-alpha]SZ[19]ST[2]
+RU[Japanese]KM[0.00]PW[White]PB[Black]
+AB[ad][be][cb][cc][cd][da]AW[bf][bh][ca][ce][cf][db][dc][dd][de][fb]TR[da][fb]MA[ca]
+(;B[bb]
+;W[af]
+(;B[ac]
+C[+]
+S[ALIVE])
+(;B[ba]
+;W[ab]
+;B[ac]
+;W[bd]MA[bb]
+C[You canceled the Hane advantage and now you are dead]
+S[DEAD]))
+(;B[ba]
+;W[ab]
+;B[bb])
+(;B[bc]
+;W[ba]
+;B[bb]
+;W[ea])
+(;B[ab]
+;W[ba]
+(;B[bc]
+;W[ea]
+;B[bb]
+;W[af]
+;B[ae]
+C[It is alive, but you lost the game because you gave up points with no reason.]
+S[ALIVE])
+(;B[bb]
+;W[bc]
+S[DEAD]))
+(;B[ac]
+;W[ba]
+S[DEAD]))

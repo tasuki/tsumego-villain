@@ -1,0 +1,14 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[6.50]
+AW[eb][cc][oc][cd][fd][de][pi][qm][en][po][qp][eq][pq]AB[dc][jc][pc][bd][qd][be][pe][ch][cm][qo][cp][hp][lq]LB[cq:A][dq:C][gq:B]
+(;B[cq]LB[cq:1]
+;W[jq]LB[cq:1][jq:2]TR[en][eq]SQ[hp][lq]C[Ín some cases, Move 1 would be a good way to attack the two triangle marked stones. Here, however, opponent can invade with 2, severely attacking your's two square marked stones. Therefore, move 1 is in the wrong direction.])
+(;B[dq]
+;W[do]
+;B[co]
+;W[dr]
+;B[cr]
+;W[dp]
+;B[cq]
+;W[fp]SQ[hp][lq]C[Your stones have become weak])
+(;B[gq]C[+]))
